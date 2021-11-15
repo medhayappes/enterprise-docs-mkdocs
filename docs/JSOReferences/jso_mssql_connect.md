@@ -1,4 +1,4 @@
-Oracle Remote Connector
+MSSQL Remote Connector
 =======================
 
 Yappes provides support for accessing the remote Oracle database.It's

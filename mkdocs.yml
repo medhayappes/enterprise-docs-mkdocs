@@ -1,8 +1,8 @@
 site_name: Yappes Enterprise Documentation
 site_url: http://docs.enterprise.yappes.com/
-theme:
-  name: material
-  logo: images/title_logo.png
+#theme:
+  #name: material
+  #logo: images/title_logo.png
 nav:
   - Home: index.md
   - 'Onboard Existing API':
@@ -78,7 +78,34 @@ nav:
     - manageInvoice.md
   - 'Follow/Unfollow API': 'follow_unfollow_api.md'
   - 'Manage Votes API': 'vote_cancelvote_api.md'
-  - 'API Analytics Providers'
+  - 'Javascript Object References':
+    - 'About Javascript Objects': 'JSOReferences/js_object_ref.md'
+    - 'Yappes Objects': 'JSOReferences/jso_req_res.md'
+    - 'Remote Connectors':
+      - 'About Remote Connectors': 'JSOReferences/jso_remote_connect.md'
+      - 'MySQL Remote Connector': 'JSOReferences/jso_mysql_connect.md'
+      - 'Mongo Remote Connector': 'JSOReferences/jso_mongo_connect.md'
+      - 'Store Remote Connector': 'JSOReferences/jso_store_connect.md'
+      - 'Webservice Connector': 'JSOReferences/jso_https_connect.md'
+      - 'MariaDB Remote Connector': 'JSOReferences/jso_mariadb_connect.md'
+      - 'GraphQL Remote Connector': 'JSOReferences/jso_graphql_connect.md'
+      - 'Postgres SQL Remote Connector': 'JSOReferences/jso_postgres_connect.md'
+      - 'MSSQL Remote Connector': 'JSOReferences/jso_mssql_connect.md'
+      - 'Oracle Remote Connector': 'JSOReferences/jso_oracle_connect.md'
+    - 'Use Environment Variables In Business Logic': 'JSOReferences/environment_var_in_business_logic.md'
+  - 'Organizations':
+    - 'About Organizations': 'organizations.md'
+    - 'Create And Edit Organization': 'organizations_create_edit.md'
+    - 'Invite Users To Organization': 'organizations_invite_user.md'
+    - 'Create User Roles': 'organizations_user_roles.md'
+    - 'Change Ownership': 'organizations_changeownership.md'
+    - 'Create Team': 'organizations_create_team.md'
+    - 'Change Organization View': 'organization_view.md'
+  - 'API-Origanizations Association':
+    - 'Associate API with Organizations': 'organizations_associate_api.md'
+  - 'Gateway Policies':
+    - 'Add-Edit-Delete Gateway Policies': 'gateway_policy.md'
+    - 'Attach Gateway Policies to subscriptions': 'attach_gateway_policy_to_subscriptions.md'
 # plugroute_:
 #   - search
  #   - awesome-pages

@@ -15,4 +15,4 @@ use of,
 3.  Yappes Objects
 
 Next we will see in detail about the Yappes Objects["Next : Request and
-Response Objects"](jso_req_res)
+Response Objects"](jso_req_res.md)
