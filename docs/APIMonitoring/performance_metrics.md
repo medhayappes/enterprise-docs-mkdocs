@@ -8,6 +8,7 @@ To start with this, we need to navigate to **Performance metrices** tab.
 
 -   API performance metrices allows user to fetch list of apis with
     high/low performance.
+    ![](../images/dashboard/monitoring/add_api_tracker_001.png)     
 -   user can select:
     1.  high perfroming apis
     2.  low perfroming apis

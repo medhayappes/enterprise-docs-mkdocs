@@ -79,6 +79,54 @@ nav:
   - 'Follow/Unfollow API': 'follow_unfollow_api.md'
   - 'Manage Votes API': 'vote_cancelvote_api.md'
   - 'API Analytics Providers'
+  - 'CLI Tools' : 
+    - 'CLI Tools' : CliTool/cli_tool.md
+    - 'CLI Command List' : CliTool/cli_tool_commands.md
+    - 'Login' : CliTool/cli_tool_login.md
+    - 'Logout' : CliTool/cli_tool_logout.md
+    - 'Whoami' : CliTool/cli_tool_whoami.md
+    - 'Clone' : CliTool/cli_tool_clone.md
+    - 'Status' : CliTool/cli_tool_status.md
+    - 'Pull' : CliTool/cli_tool_pull.md
+    - 'Deploy' : CliTool/cli_tool_deploy.md
+    - 'Execute' : CliTool/cli_tool_execute.md
+    - 'Loggin and Debugging' : CliTool/cli_log_debug.md
+  - 'Manage Versioning':
+    - 'Manage Versioning' : Versions/versions.md
+    - 'Create New Version?' : Versions/create_versions.md
+    - 'View Single Version': Versions/view_versions.md
+    - 'Deprecate/Reactive Version': Versions/deprecate_reactivate_versions.md
+    - 'Deprecate Multiple Version' : Versions/deprecate_multiple_versions.md
+    - 'Decommissioning': Versions/decommissioning.md
+  - 'API Monitoring':
+    - 'API Monitoring' : APIMonitoring/api_monitoring.md
+    - 'Add/Update Endpoint Tracker' : APIMonitoring/add_endpoint_tracker.md
+    - 'View Monitoring Charts' : APIMonitoring/view_charts.md
+    - 'API Monitoring Policies' : 
+      - 'API Monitoring Policies' : APIMonitoring/api_monitoring_policies.md
+      - 'Add/Update Policies' : APIMonitoring/add_policies.md
+      - 'Attach Policies to Trackers' : APIMonitoring/attach_policies_tracker.md
+      - 'Performance Metrics': APIMonitoring/performance_metrics.md
+  - 'Dashboard for Metrics':
+      - 'Dashboard for Metrics' : DashboardMetrics/dashobard_metrics.md
+      - 'Marketplace' : DashboardMetrics/marketplace_dashboard.md
+      - 'Organization' : DashboardMetrics/organization_dashboard.md
+      - 'Analytics' : DashboardMetrics/analytics_dashboard.md
+  - 'Manage API Groups': 
+      - 'Manage API Groups' : APIGroups/api_groups.md
+      - 'Create and Edit API Groups' : APIGroups/create_edit_api_groups.md
+      - 'Add/Remove APIs' : APIGroups/add_remove_apis.md
+      - 'Add/Remove Gateway Policies' : APIGroups/add_remove_gateway_policy.md
+      - 'Add/Remove Monitor Policies' : APIGroups/add_remove_monitor_policy.md
 # plugroute_:
 #   - search
  #   - awesome-pages
+# Dashboard for Metrics
+# Marketplace
+# Organization
+# Analytics
+# Manage API Groups
+# Create and Edit API Groups
+# Add/Remove APIs
+# Add/Remove Gateway Policies
+# Add/Remove Monitor Policies
