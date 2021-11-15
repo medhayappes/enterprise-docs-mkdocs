@@ -55,4 +55,4 @@ section "TBD".
 
 6.  In the next section, we will see how to Change Ownership of an
     Organizations in detail. ["Next: Change Ownership of an
-    Organizations"](change_ownership_organizations)
+    Organizations"](organizations_changeownership.md)

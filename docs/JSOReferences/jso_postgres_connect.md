@@ -212,4 +212,4 @@ UPDATE Operation Object Usage : POST "/new/data/update" Data
             
 
 Next we will see in detail about the MSSQL Connectors["Next : MSSQL
-Connectors"](mssql_remote_connt)
+Connectors"](jso_mssql_connect.md)

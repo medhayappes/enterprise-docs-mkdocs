@@ -136,4 +136,4 @@ Data:{"id":1,"name":"Flighttest"}
             
 
 Next we will see in detail about the Oracle Connectors["Next : Oracle
-Connectors"](oracle_remote_connt)
+Connectors"](jso_oracle_connect.md)

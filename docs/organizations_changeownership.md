@@ -64,4 +64,4 @@ afore-mentioned feature.
 
 8.  In the next section, we will see how to manage the team on
     Organization in detail ["Next :Manage the team in
-    Organization"](organizations_create_team)
+    Organization"](organizations_create_team.md)

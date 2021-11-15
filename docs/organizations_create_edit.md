@@ -57,4 +57,4 @@ the Organization tab, there will be two views.
 
 10. In the next section, we will see how to invite a user to the
     Organization ["Next: Invite User to
-    Organizations"](organizations_invite_user)
+    Organizations"](organizations_invite_user.md)

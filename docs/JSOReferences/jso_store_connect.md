@@ -102,4 +102,4 @@ Data:{rating":"4.5"}
             
 
 Next we will see in detail about the Web Service Connectors["Next : Web
-Service Connectors"](http_remote_connt)
+Service Connectors"](jso_https_connect.md)

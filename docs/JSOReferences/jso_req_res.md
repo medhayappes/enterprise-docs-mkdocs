@@ -75,4 +75,4 @@ ypresponse Object Usage : GET /travel/airlines/list
             
 
 Next we will see in detail about the Remote Connectors - Yappes
-Objects["Next : Remote Connectors"](remote_connectors)
+Objects["Next : Remote Connectors"](jso_remote_connect.md)

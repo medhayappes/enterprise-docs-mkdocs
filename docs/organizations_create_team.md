@@ -74,4 +74,4 @@ the Organization.
     ![](../images/dashboard/organization/teamusers_add_05.png)
 
 16. In the next section, we will see how to Change Organization View in
-    detail ["Next : Organization View"](organization_view)
+    detail ["Next : Organization View"](organization_view.md)

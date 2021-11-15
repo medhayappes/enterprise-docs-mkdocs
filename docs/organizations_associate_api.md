@@ -69,4 +69,4 @@ can be associated with only one Organization.
     ![](../images/dashboard/associate/associate_existing_04.png)
 
 Next we will see how to Add Gateway Policies ["Next : Gateway
-policies"](gateway_policy)
+policies"](gateway_policy.md)

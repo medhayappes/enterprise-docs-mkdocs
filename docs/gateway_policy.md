@@ -52,4 +52,4 @@ Add Gateway Policies
 
 Next we will see how to Attaching Gateway Policies to subscriptions
 ["Next : Attaching Gateway Policies to
-subscriptions"](attach_gateway_policy_to_subscriptions)
+subscriptions"](attach_gateway_policy_to_subscriptions.md)

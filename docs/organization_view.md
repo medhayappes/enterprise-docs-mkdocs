@@ -27,4 +27,4 @@ for that organization, each role having different priviledges.
 
 In the next section, we will see how to associate API with Organization
 in detail ["Next : Associate API with
-Organization"](organizations_associate_api)
+Organization"](organizations_associate_api.md)

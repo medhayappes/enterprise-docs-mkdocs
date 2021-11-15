@@ -147,4 +147,4 @@ For more examples click
 [here](https://github.com/yappes-technologies/logic-examples).
 
 Next we will see in detail about the Graphql Remote Connectors ["Next :
-Graphql Remote Connectors"](graph_remote_connt)
+Graphql Remote Connectors"](jso_graphql_connect.md)

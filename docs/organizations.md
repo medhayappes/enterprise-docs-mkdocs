@@ -31,4 +31,4 @@ its subsections, we will get in detail about how we can use the
 
 5.  In the next section, we will see how to create an organization in
     detail ["Next: Create/Edit an
-    organization"](create_edit_organizations)
+    organization"](organizations_create_edit.md)

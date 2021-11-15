@@ -37,4 +37,4 @@ us see how we can invite users to the Organization.
 
 6.  In the next section, we will see how to change the user roles in an
     Organization in detail ["Next: Change user role in the
-    organization"](organizations_user_roles)
+    organization"](organizations_user_roles.md)
