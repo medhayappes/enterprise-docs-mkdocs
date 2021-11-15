@@ -78,6 +78,20 @@ nav:
     - manageInvoice.md
   - 'Follow/Unfollow API': 'follow_unfollow_api.md'
   - 'Manage Votes API': 'vote_cancelvote_api.md'
+  - 'Manage Collections And Objects':
+    - CollectionsAndObjects/manage_collections_and_objects.md
+    - 'Create/Update Collection': CollectionsAndObjects/create_update_delete_collection.md
+    - 'Create/Update Objects': CollectionsAndObjects/create_update_delete_object.md
+  - 'Report An API': 'reportAPI.md'
+  - 'My API Subscriptions': 'MyApiSubscriptions/my_api_subscriptions.md'
+  - 'API Analytics Providers':
+    - 'API Analytics': APIAnalytics/api_analytics.md
+    - 'API Level': APIAnalytics/analytics_api_level.md
+    - 'Endpoint Level': APIAnalytics/analytics_endpoint_level.md
+    - 'User Level': APIAnalytics/analytics_user_level.md
+  - 'API Analytics Consumers':
+    - 'API Analytics Consumer': APIAnalytics/APIAnalytics_consumers.md
+    - 'API Level': APIAnalytics/analytics_consumer_apilevel.md  
   - 'Javascript Object References':
     - 'About Javascript Objects': 'JSOReferences/js_object_ref.md'
     - 'Yappes Objects': 'JSOReferences/jso_req_res.md'
