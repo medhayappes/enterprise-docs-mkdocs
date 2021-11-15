@@ -25,4 +25,4 @@ API.
     ![](../images/social/follow_unfollow_following_02.png)
 
 4.  After this we will be looking in to Voting and Cancel Voting of an
-    API ["Next : How to Vote / Cancel Vote?"](voteAPI)
+    API ["Next : How to Vote / Cancel Vote?"](vote_cancelvote_api.md)
