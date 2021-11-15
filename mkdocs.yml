@@ -1,8 +1,11 @@
 site_name: Yappes Enterprise Documentation
 site_url: http://docs.enterprise.yappes.com/
-#theme:
-  #name: material
-  #logo: images/title_logo.png
+theme:
+  name: material
+  logo: images/title_logo.png
+  favicon: images/favicon-2.ico
+  palette:
+    primary: white
 nav:
   - Home: index.md
   - 'Onboard Existing API':
