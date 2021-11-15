@@ -20,4 +20,4 @@ To start with this, we need to navigate to **Versions** tab.
     ![](../images/dashboard/versions/version_view_4.png)    
 
 Next we will see in detail about viewing the single version of an API
-["Next : View Single Version"](view_versions)
+["Next : View Single Version"](view_versions.md)

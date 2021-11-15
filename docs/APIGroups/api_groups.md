@@ -13,4 +13,4 @@ Manage API Groups
 4.  [Add/Remove Monitor Policies](add_remove_monitor_policy)
 
 Next we will see in detail about Create and Edit API Groups ["Next :
-Create and Edit API Groups"](create_edit_api_groups)
+Create and Edit API Groups"](create_edit_api_groups.md)

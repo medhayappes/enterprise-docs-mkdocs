@@ -23,4 +23,4 @@ To start with this, we need to navigate to **API's** tab.
     ![](../images/dashboard/api-groups/add_apis_001.png)
 
 Next we will see in detail about Add/Remove Gateway Policies ["Next :
-Add/Remove Gateway Policies"](add_remove_gateway_policy)
+Add/Remove Gateway Policies"](add_remove_gateway_policy.md)

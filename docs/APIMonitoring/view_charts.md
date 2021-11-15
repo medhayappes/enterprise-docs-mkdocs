@@ -18,4 +18,4 @@ To start with this, we need to navigate to **trackers** tab.
     ![](../images/dashboard/monitoring/add_api_tracker_007.png)     
 
 Next we will see in detail about API Monitoring Policies ["Next : API
-Monitoring Policies "](api_monitoring_policies)
+Monitoring Policies "](api_monitoring_policies.md)

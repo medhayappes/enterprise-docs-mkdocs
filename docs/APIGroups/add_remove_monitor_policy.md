@@ -21,4 +21,4 @@ To start with this, we need to navigate to **Monitor Policies** tab.
     ![](../images/dashboard/api-groups/remove_monitor_policies_002.png)
 
 Next we will see the how to reach us for any doubts in the documentation
-or in the tool [Need Help?](reach_us)
+or in the tool [Need Help?](../reach_us.md)

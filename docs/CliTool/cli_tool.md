@@ -17,4 +17,4 @@ to modify, test and deploy the business logic for an endpoint.
 -   The auth token is stored under users home directory.
 
 Next we will see the list of commands available as part of the
-"yappescli" tool [CLI Commands List](cli_tool_commands)
+"yappescli" tool [CLI Commands List](cli_tool_commands.md)

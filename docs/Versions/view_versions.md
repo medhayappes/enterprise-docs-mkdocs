@@ -9,4 +9,4 @@ View Single Version
     ![](../images/dashboard/versions/version_view_6.png)
 
 Next we will see in detail about Deprecate/Reactive Version["Next :
-Deprecate/Reactive Version"](deprecate_reactivate_versions)
+Deprecate/Reactive Version"](deprecate_reactivate_versions.md)

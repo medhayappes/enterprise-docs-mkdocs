@@ -13,4 +13,4 @@ To start with this, we need to navigate to **Manage policies** tab.
 		![](../images/dashboard/monitoring/add_api_tracker_003.png) 
 
 Next we will see in detail about Attach API Monitoring Policies ["Next :
-Attach API Monitoring Policies"](attach_policies_tracker)
+Attach API Monitoring Policies"](attach_policies_tracker.md)

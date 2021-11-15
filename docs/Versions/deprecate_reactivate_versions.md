@@ -27,4 +27,4 @@ Deprecate/Reactive Version
     ![](../images/dashboard/versions/version_view_13.png)
 
 Next we will see in detail about Deprecate Multiple Version["Next :
-Deprecate Multiple Version"](deprecate_multiple_versions)
+Deprecate Multiple Version"](deprecate_multiple_versions.md)
