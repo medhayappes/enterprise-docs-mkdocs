@@ -1,8 +1,5 @@
-<div>
-
-<div>
-
-# Error Settings
+Error Settings
+==============
 
 Yappes provides the convenience to customize error messages that is
 delivered from the server on custom logic execution. This requires to
@@ -20,13 +17,5 @@ Error settings requires 2 configurations.
 
 ![](../images/new_api/errorsettingtab_view_19.png)
 
-<div>
-
 Next : We will further see how to configure [error
 settings.](configure_error_settings)
-
-</div>
-
-</div>
-
-</div>

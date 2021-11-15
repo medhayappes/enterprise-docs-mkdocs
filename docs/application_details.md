@@ -1,8 +1,5 @@
-
-
-
-
-# Applications Details
+Applications Details
+====================
 
 Application details are basic details of an application
 
@@ -12,9 +9,5 @@ Application details are basic details of an application
     the APIs.
 2.  Description - A brief description about the application like what
     kinds of APIs are used, etc.
-3.  In the next section, we will see what is application keys [\"Next :
-    Application Keys\"](appkeys)
-
-
-
-
+3.  In the next section, we will see what is application keys ["Next :
+    Application Keys"](appkeys)

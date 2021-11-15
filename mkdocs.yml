@@ -76,6 +76,9 @@ nav:
     - preferences.md
     - billing.md
     - manageInvoice.md
+  - 'Follow/Unfollow API': 'follow_unfollow_api.md'
+  - 'Manage Votes API': 'vote_cancelvote_api.md'
+  - 'API Analytics Providers'
 # plugroute_:
 #   - search
  #   - awesome-pages

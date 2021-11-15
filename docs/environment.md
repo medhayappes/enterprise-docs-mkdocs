@@ -1,13 +1,10 @@
-
-
-
-
-# Environment Details
+Environment Details
+===================
 
 Environment helps the Provider to set which API Url to use during
 publishing. After publishing whenever the the request is triggered from
-the consumer, Yappes platform will connect with the \"Environment used
-During Publishing\" value
+the consumer, Yappes platform will connect with the "Environment used
+During Publishing" value
 
 Currently Yappes provides three types of Environment.
 
@@ -26,8 +23,4 @@ testing.
 1.  User can change the environment used during publishing the API .
 2.  Three types of environment and corresponding base url will be
     displayed here.The provider can edit the base url when needed.
-3.  Next We will see routemap [\"Next : Route Map Details\"](routemap)
-
-
-
-
+3.  Next We will see routemap ["Next : Route Map Details"](routemap)

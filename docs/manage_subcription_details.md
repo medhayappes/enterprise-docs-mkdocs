@@ -1,8 +1,5 @@
-
-
-
-
-# Manage Subcription Details
+Manage Subcription Details
+==========================
 
 1.  When you click the View Subscription View Button it will show the
     model.
@@ -22,9 +19,5 @@
 
     In the keys tab you can see the public and private key details.
 
-In the next section, we will see how to Manage Environment Access
-[\"Next : Manage Environment Access\"](manageEnvironmentAccess)
-
-
-
-
+In the next section, we will see how to Manage Environment Access ["Next
+: Manage Environment Access"](manageEnvironmentAccess)

@@ -1,10 +1,7 @@
+Rate My Subscribed API
+======================
 
-
-
-
-# Rate My Subscribed API
-
-User can view all their subscribed APIs under the \"Subscription\" tab.
+User can view all their subscribed APIs under the "Subscription" tab.
 The consumer can provide the rating for their subscribed API under this
 section
 
@@ -26,9 +23,5 @@ section
     ![](../images/dashboard/subscriptions/consumersubs_rate_03.png)
 
 4.  In the next section, we will see how view all the review and ratings
-    for my API [\"Next : View Review and Ratings For My
-    API\"](reviewRatings)
-
-
-
-
+    for my API ["Next : View Review and Ratings For My
+    API"](reviewRatings)

@@ -1,34 +1,9 @@
-
-
-
-
-
-
 ### 
-
-
-
-
 
 ### Frequently Asked Questions
 
-
-
-
-
-
-
-
-
-
-
-
-
-## 1. Who can use this platform?
-
-
-
-
+1. Who can use this platform?
+-----------------------------
 
 -   Organizations who is having the API or data like content
     providers/aggregators, etc
@@ -39,86 +14,44 @@
     consume APIs like Technology businesses, developers, and enterprise
     etc
 
-
-
-
-
-## 2. What is the difference between \"Existing APIs\" and \"New APIs\"?
-
-
-
-
+2. What is the difference between "Existing APIs" and "New APIs"?
+-----------------------------------------------------------------
 
 -   Existing APIs - Provider already has an API and onboarding them to
     Yappes platform and then distribute
 -   New APIs - User creates the API from scratch in Yappes platform
     itself and then distribute.
 
+3. I have published my API but it is not visible in the search?
+---------------------------------------------------------------
 
+Make sure the availability is set to "Public" only then it is available
+to all of the platform users. For details check the [Provide API Details
+during Creation](apidetails)
 
-
-
-## 3. I have published my API but it is not visible in the search?
-
-
-
-
-
-Make sure the availability is set to \"Public\" only then it is
-available to all of the platform users. For details check the [Provide
-API Details during Creation](apidetails)
-
-
-
-
-
-## 4. Do I need to go through the Deal Process for the Free APIs as well?
-
-
-
-
+4. Do I need to go through the Deal Process for the Free APIs as well?
+----------------------------------------------------------------------
 
 No, Consumer can directly subscribe to the APIs whose plan types are
-\"Free\" and can unsubscribe anytime they needed as mentioned in our
+"Free" and can unsubscribe anytime they needed as mentioned in our
 functionality docs [Start/Stop API
 Subscriptions](startStopSubscription).
 
-
-
-
-
-## 5. What is the billing cycle in the Marketplace module?
-
-
-
-
+5. What is the billing cycle in the Marketplace module?
+-------------------------------------------------------
 
 Billing is done on a monthly basis and the invoices are automatically
 generated on 1st of every month for the previous month cycle.
 
-
-
-
-
-## 6. How the pricing is done?
-
-
-
-
+6. How the pricing is done?
+---------------------------
 
 Pricing is done on the plans that are subscribed during the invoice
-period. Total amount will be the combination of plan's base price +
+period. Total amount will be the combination of plan’s base price +
 extra usage in terms of transactions.
 
-
-
-
-
-## 7. What are the different types of Organization we can manage in the platform?
-
-
-
-
+7. What are the different types of Organization we can manage in the platform?
+------------------------------------------------------------------------------
 
 There are three different types of organization thats can be managed on
 the platform.
@@ -132,15 +65,8 @@ the platform.
     Consumers(Customers/Partners/Vendors). You can configure multiple
     External organizations.
 
-
-
-
-
-## 8. What are the different types of Users we can manage in the platform?
-
-
-
-
+8. What are the different types of Users we can manage in the platform?
+-----------------------------------------------------------------------
 
 There are two different types of Users that can be managed on the
 platform.
@@ -151,15 +77,8 @@ platform.
 -   External Organization - The users belongs to External organization
     types, and have 1 role which can be assigned to them.
 
-
-
-
-
-## 9. How Do I Get In Touch With You?
-
-
-
-
+9. How Do I Get In Touch With You?
+----------------------------------
 
 You can get in touch with us through multiple mediums
 
@@ -167,15 +86,5 @@ You can get in touch with us through multiple mediums
     access our [Yappes Enterprise Support
     Desk](https://support.yappes.com). Using which you can raise support
     tickets.
--   You can always drop a mail to support\@yappes.com, We will be happy
+-   You can always drop a mail to support@yappes.com, We will be happy
     to assist you.
-
-
-
-
-
-
-
-
-
-

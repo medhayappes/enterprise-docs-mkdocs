@@ -1,16 +1,13 @@
+Organizations Create/Edit
+=========================
 
+Users can access the "Organization" feature under thier dashboard. Under
+the Organization tab, there will be two views.
 
-
-
-# Organizations Create/Edit
-
-Users can access the \"Organization\" feature under thier dashboard.
-Under the Organization tab, there will be two views.
-
--   \"Owned Organization\" - Organizations created by the current user.
--   \"Member Organization\" - Organizations where the current user is
+-   "Owned Organization" - Organizations created by the current user.
+-   "Member Organization" - Organizations where the current user is
     member of. We will see this funcitonality in detail under the
-    section \"TBU\"
+    section "TBU"
 
 1.  To Create a new Organization Click the ADD ORGANIZATION Button
 
@@ -26,10 +23,10 @@ Under the Organization tab, there will be two views.
     ![](../images/dashboard/organization/organization_create_03.png)
 
     If the Organization created successfully. The user can see the
-    Success Message Popup\...!!
+    Success Message Popup...!!
 
-4.  And you can find the newly added organization under the \"Owned
-    Organization\" tab along with view statistics like number of People,
+4.  And you can find the newly added organization under the "Owned
+    Organization" tab along with view statistics like number of People,
     Teams and API associated with the Organization.
 
     ![](../images/dashboard/organization/organization_create_04.png)
@@ -59,9 +56,5 @@ Under the Organization tab, there will be two views.
     ![](../images/dashboard/organization/organization_update_05.png)
 
 10. In the next section, we will see how to invite a user to the
-    Organization [\"Next: Invite User to
-    Organizations\"](organizations_invite_user)
-
-
-
-
+    Organization ["Next: Invite User to
+    Organizations"](organizations_invite_user)

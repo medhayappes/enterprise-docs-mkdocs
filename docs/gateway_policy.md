@@ -1,8 +1,5 @@
-
-
-
-
-# Add Gateway Policies
+Add Gateway Policies
+====================
 
 1.  Add Policy
 2.  Edit Policy
@@ -25,7 +22,7 @@
 
     ![](../images/dashboard/gateway-policies/gateway-policies-04.png)
 
-4.  Attach policy by clicking on \"submit policy\"
+4.  Attach policy by clicking on "submit policy"
 
     ![](../images/dashboard/gateway-policies/gateway-policies-05.png)
 
@@ -35,7 +32,7 @@
 
     ![](../images/dashboard/gateway-policies/gateway-policies-06.png)
 
-2.  After making desired Changes click on \"Update policy\" button.
+2.  After making desired Changes click on "Update policy" button.
 
     ![](../images/dashboard/gateway-policies/gateway-policies-07.png)
 
@@ -45,8 +42,7 @@
 
     ![](../images/dashboard/gateway-policies/gateway-policies-08.png)
 
-2.  Confirmation prompt will be having \"yes\" or \"no\" option for
-    deletion
+2.  Confirmation prompt will be having "yes" or "no" option for deletion
 
     ![](../images/dashboard/gateway-policies/gateway-policies-09.png)
 
@@ -54,14 +50,6 @@
 
     ![](../images/dashboard/gateway-policies/gateway-policies-10.png)
 
-
-
 Next we will see how to Attaching Gateway Policies to subscriptions
-[\"Next : Attaching Gateway Policies to
-subscriptions\"](attach_gateway_policy_to_subscriptions)
-
-
-
-
-
-
+["Next : Attaching Gateway Policies to
+subscriptions"](attach_gateway_policy_to_subscriptions)

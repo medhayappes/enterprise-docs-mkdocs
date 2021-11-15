@@ -1,8 +1,5 @@
-
-
-
-
-# Remote Sources
+Remote Sources
+==============
 
 At this point, User can create Remote Endpoints
 
@@ -23,13 +20,5 @@ We will further see each of the following in detail
 1.  [How to Add Remote Sources?](add_remote_sources)
 2.  [How to Update Remote Sources?](update_remote_sources)
 
-
-
-Next we will see how to Add Remote Sources [\"Next : Add Remote
-Sources\"](add_remote_sources)
-
-
-
-
-
-
+Next we will see how to Add Remote Sources ["Next : Add Remote
+Sources"](add_remote_sources)

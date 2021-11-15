@@ -1,12 +1,9 @@
-
-
-
-
-# Invite User to Organizations
+Invite User to Organizations
+============================
 
 Organization owner can invite other Yappes users to be part of the
 Organization. Each invited user will be automatically added as part of
-the Organization with the default role as \"api-reader\". Organization
+the Organization with the default role as "api-reader". Organization
 Owner can later remove the user from the Organization as well. Now let
 us see how we can invite users to the Organization.
 
@@ -39,9 +36,5 @@ us see how we can invite users to the Organization.
     ![](../images/dashboard/organization/users_add_05.png)
 
 6.  In the next section, we will see how to change the user roles in an
-    Organization in detail [\"Next: Change user role in the
-    organization\"](organizations_user_roles)
-
-
-
-
+    Organization in detail ["Next: Change user role in the
+    organization"](organizations_user_roles)

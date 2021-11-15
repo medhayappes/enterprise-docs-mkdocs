@@ -1,15 +1,12 @@
-
-
-
-
-# Manage Deal as a Provider
+Manage Deal as a Provider
+=========================
 
 Under this we will see how an User as an API provider can manage the
 Deals.
 
 ![](../images/dashboard/deals/provider_update_01.png)
 
-1.  To select a particular deal, click on \"Detail\" button of a deal.
+1.  To select a particular deal, click on "Detail" button of a deal.
 
     ![](../images/dashboard/deals/provider_update_02.png)
 
@@ -31,12 +28,8 @@ Deals.
     ![](../images/dashboard/deals/provider_update_04.png)
 
 4.  Provider can start the Subscription of the API once the status is
-    \"Deal Accepted\", which we will be discussing in detail in the
-    section [\"API Subscriptions\"](manageSubscriptions)
+    "Deal Accepted", which we will be discussing in detail in the
+    section ["API Subscriptions"](manageSubscriptions)
 
 5.  In the next section, we will see how to manage deals as a consumer
-    [\"Next : Manage deals as a consumer\"](consumerdeals)
-
-
-
-
+    ["Next : Manage deals as a consumer"](consumerdeals)

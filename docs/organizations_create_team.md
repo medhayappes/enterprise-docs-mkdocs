@@ -1,25 +1,22 @@
-
-
-
-
-# Create and Manage Team in Organizations
+Create and Manage Team in Organizations
+=======================================
 
 Yappes provides the Oranization owner to segregate the users based on
 the funciton they server. The segregation is implemented in the form of
-\"Teams\". Under Teams, owner can add or remove user who are are part of
+"Teams". Under Teams, owner can add or remove user who are are part of
 the Organization.
 
 1.  On the Organizations Detail View page, you can find the tab called
-    \"Teams\". Click that tab
+    "Teams". Click that tab
 
     ![](../images/dashboard/organization/team_view_01.png)
 
-2.  When you click the \"Teams\" tab for the first time it shows the
+2.  When you click the "Teams" tab for the first time it shows the
     following message as (No Team Members are Available).
 
     ![](../images/dashboard/organization/team_view_02.png)
 
-3.  Click the button \"ADD NEW TEAM\".
+3.  Click the button "ADD NEW TEAM".
 
     ![](../images/dashboard/organization/team_add_01.png)
 
@@ -58,12 +55,12 @@ the Organization.
     ![](../images/dashboard/organization/teamusers_add_01.png)
 
 12. It will open the popup and search the user you want to add to the
-    team and select the user from the dropdown  \
+    team and select the user from the dropdown    
     **Note: You can add more than one users through this popup**
 
     ![](../images/dashboard/organization/teamusers_add_02.png)
 
-13. Click the button \"ADD SELECTED USERS\".
+13. Click the button "ADD SELECTED USERS".
 
     ![](../images/dashboard/organization/teamusers_add_03.png)
 
@@ -77,8 +74,4 @@ the Organization.
     ![](../images/dashboard/organization/teamusers_add_05.png)
 
 16. In the next section, we will see how to Change Organization View in
-    detail [\"Next : Organization View\"](organization_view)
-
-
-
-
+    detail ["Next : Organization View"](organization_view)

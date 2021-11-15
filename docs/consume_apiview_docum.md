@@ -1,8 +1,5 @@
-
-
-
-
-# View API
+View API
+========
 
 Consumer can view the following information related to an API
 
@@ -27,15 +24,15 @@ Consumer can view the following information related to an API
 
 3.  Then comes Documentation. All API Endpoints will be listed here,
     also consumer can test all Endpoints from this tab. On how to test
-    is described in detail in the section. [\"Preview the API
-    Documentation\"](preview)
+    is described in detail in the section. ["Preview the API
+    Documentation"](preview)
 
     ![](../images/consume/view_api_documentation_10.png)
 
 4.  The next is Pricing details. All the active pricing plans will be
     listed here. Consumers can initiate the deal process with the api
-    provider on clicking \"Contact\" button which will be discussed in
-    the section [\"Manage Deals\"](managedeals)
+    provider on clicking "Contact" button which will be discussed in the
+    section ["Manage Deals"](managedeals)
 
     ![](../images/consume/view_api_pricing_11.png)
 
@@ -44,7 +41,7 @@ Consumer can view the following information related to an API
 
     ![](../images/consume/view_api_license_12.png)
 
-6.  Consumer can view all \"Reviews and Ratings\" for that API. These
+6.  Consumer can view all "Reviews and Ratings" for that API. These
     reviews and ratings will be helpful in determining the quality of
     the selected API.
 
@@ -52,9 +49,5 @@ Consumer can view the following information related to an API
 
     ![](../images/consume/view_api_review_14.png)
 
-7.  In the next section, we will see about the Dashboard section [\"Next
-    : Dashboard\"](dashboard_details)
-
-
-
-
+7.  In the next section, we will see about the Dashboard section ["Next
+    : Dashboard"](dashboard_details)

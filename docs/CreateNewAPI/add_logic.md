@@ -1,8 +1,5 @@
-
-
-
-
-# Adding Logic
+Adding Logic
+============
 
 User can define Business Logic for their Endpoints.
 
@@ -16,7 +13,7 @@ Users will have access to three set of Javascript Objects:
 -   Yappes Custom Objects
 
 Documentation for the above objects can be referred in the section
-\"Javascript Object Reference\".
+"Javascript Object Reference".
 
 To handle logic, user must first open the logic view of the endpoint.
 
@@ -41,13 +38,5 @@ In this part, user are able to add custom logic, along specifying
 
 ------------------------------------------------------------------------
 
-
-
-
-
-In the next section, we will see about Documentation [\"Next :
-Documentation\"](endpoint_documentation)
-
-
-
-
+In the next section, we will see about Documentation ["Next :
+Documentation"](endpoint_documentation)

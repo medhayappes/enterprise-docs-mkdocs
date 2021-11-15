@@ -1,8 +1,5 @@
-
-
-
-
-# How to Report an API If it is not working?
+How to Report an API If it is not working?
+==========================================
 
 Yappes allows the Consumer to report the APIs that is not working or
 having wrong information in its Yappes platform.
@@ -25,10 +22,5 @@ having wrong information in its Yappes platform.
 3.  After successful submission of the Report, our team will get in
     touch with you for clarification and resolution. Confirmation Mail
     also will be sent for the same.
-
-4.  In the next section, we will see my api subscriptions [\"Next : My
-    API Subscriptions\"](my_api_subscriptions)
-
-
-
-
+4.  In the next section, we will see my api subscriptions ["Next : My
+    API Subscriptions"](my_api_subscriptions)

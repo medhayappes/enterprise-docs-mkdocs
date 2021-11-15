@@ -1,8 +1,5 @@
-
-
-
-
-# How to Follow / UnFollow an API?
+How to Follow / UnFollow an API?
+================================
 
 Yappes allows the logged in users to keep track of the APIs. It is
 acheived by following the API and if any changes or updates done to the
@@ -28,8 +25,4 @@ API.
     ![](../images/social/follow_unfollow_following_02.png)
 
 4.  After this we will be looking in to Voting and Cancel Voting of an
-    API [\"Next : How to Vote / Cancel Vote?\"](voteAPI)
-
-
-
-
+    API ["Next : How to Vote / Cancel Vote?"](voteAPI)

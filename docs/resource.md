@@ -1,8 +1,5 @@
-
-
-
-
-# End points/Resources
+End points/Resources
+====================
 
 This is one of the important part of the API.Resources will contains the
 details about Endpoints, Authentication, Preview, etc.
@@ -19,9 +16,5 @@ Under the resource we have the following functionalities.
 3.  [Add Authentication](addauth)
 4.  [Preview the API Documentation](preview)
 
-We will go through in detail in each of these section [\"Next : Manually
-adding end point\"](addendpoint)
-
-
-
-
+We will go through in detail in each of these section ["Next : Manually
+adding end point"](addendpoint)

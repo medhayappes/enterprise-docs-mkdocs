@@ -1,5 +1,2 @@
-
-
-# Welcome To Discover API
-
-
+Welcome To Discover API
+=======================

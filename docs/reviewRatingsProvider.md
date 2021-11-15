@@ -1,8 +1,5 @@
-
-
-
-
-# View Ratings & Review of My APIs
+View Ratings & Review of My APIs
+================================
 
 The provider can view the ratings and review given by the consumers who
 have subscribed their APIs, there by provider can monitor their quality
@@ -20,8 +17,4 @@ of API and services.
     ![](../images/dashboard/ratings/provider_view_03.png)
 
 3.  In the next section, we will see how to View the profile of the
-    user. [\"Next : How to view the profile?\"](mainProfile)
-
-
-
-
+    user. ["Next : How to view the profile?"](mainProfile)

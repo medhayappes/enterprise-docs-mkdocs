@@ -1,8 +1,5 @@
-
-
-
-
-# About/Readme
+About/Readme
+============
 
 API Provider can mention the detailed information of their APIs like,
 
@@ -20,10 +17,6 @@ API Provider can mention the detailed information of their APIs like,
     further use.
     -   Save - Click on save ,Once you completed this section
     -   Update - If any editing is done, it can be save by clicking on
-        the \"Update\" button.
+        the "Update" button.
 3.  After this we will see in detail about the platform security
-    section[\"Next : Security\"](security)
-
-
-
-
+    section["Next : Security"](security)

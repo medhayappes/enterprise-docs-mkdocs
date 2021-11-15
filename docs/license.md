@@ -1,8 +1,5 @@
-
-
-
-
-# API Terms and Conditions
+API Terms and Conditions
+========================
 
 API Provider can use this section to mention their Terms and Conditions
 to use the APIs. It is provided as rich text format which makes the user
@@ -20,10 +17,6 @@ to provide all kinds of formatting or beautification to his/her APIs.
     -   Save - Click on save ,Once you completed the Terms and
         conditions.
     -   Update - If any editing is done, it can be save by clicking on
-        the \"Update\" button.
-3.  After this we will see about /Readme Section of an API [\"Next :
-    About/Readme\"](aboutapi)
-
-
-
-
+        the "Update" button.
+3.  After this we will see about /Readme Section of an API ["Next :
+    About/Readme"](aboutapi)

@@ -1,13 +1,10 @@
-
-
-
-
-# Environment Details
+Environment Details
+===================
 
 Environment helps the Provider to set which API Url to use during
 publishing. After publishing whenever the the request is triggered from
-the consumer, Yappes platform will connect with the \"Environment used
-During Publishing\" value
+the consumer, Yappes platform will connect with the "Environment used
+During Publishing" value
 
 Currently Yappes provides three types of Environment.
 
@@ -38,8 +35,4 @@ thier business logic [(Refere Section 20.3)](environment_var)
     update variables according to the environment which is being used
 
 After this we need to categorize the APIs which we will see in detail
-[\"Next : Tag Details\"](tags_new)
-
-
-
-
+["Next : Tag Details"](tags_new)

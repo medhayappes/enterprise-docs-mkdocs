@@ -1,8 +1,5 @@
-
-
-
-
-# Documentation
+Documentation
+=============
 
 In this part, User can add **Headers**, **Query Parameters** and **Form
 Data**(if POST) to a particular endpoint.
@@ -20,8 +17,8 @@ the endpoint.
 **Adding Header Parameters**
 
 1.  To get started with adding Headers, click on **Add Headers** button.
-2.  On \"Add header\" click,a dialog opens up prompting the details
-    about the header.
+2.  On "Add header" click,a dialog opens up prompting the details about
+    the header.
     1.  Name - A valid name of the header which will be associated with
         the endpoint.
     2.  Value - Value of the header.You can edit it after when you need
@@ -43,8 +40,8 @@ the endpoint.
 **Adding kQuery Parameters**
 
 1.  To add Query Parameters, click on **Add Query Parameters** button.
-2.  On \"Add Query Parameter\" button click, a dialog opens up,
-    prompting the details of the query parameter.
+2.  On "Add Query Parameter" button click, a dialog opens up, prompting
+    the details of the query parameter.
     1.  Name - A valid name of the query parameter which will be
         associated with the endpoint.
     2.  Value - Value of the query parameter.You can edit it after when
@@ -68,7 +65,7 @@ the endpoint.
 **Adding From Data**
 
 1.  To add Form Data, click on **Add Form Data** button.
-2.  On \"Add Form Data\" button click, a dialog opens up, prompting the
+2.  On "Add Form Data" button click, a dialog opens up, prompting the
     details about the Form Data.
     1.  Type - Type of the Form data. You can choose accordingly.
         -   String - Select it if the Form data value is a String.
@@ -85,16 +82,8 @@ the endpoint.
     4.  Value - Value of the Form data.You can edit it after when you
         need a change.
     5.  Descriptions - Enter detailed description about the Form Data.
-3.  Click on **\"Add\"** button once you have entered all the fields.
+3.  Click on **"Add"** button once you have entered all the fields.
 4.  Form Data details will be displayed on the main view of Doc.
 
-
-
-
-
-In the next section, we will see about Testing Endpoints [\"Next :
-Testing Endpoints\"](testing_endpoint)
-
-
-
-
+In the next section, we will see about Testing Endpoints ["Next :
+Testing Endpoints"](testing_endpoint)

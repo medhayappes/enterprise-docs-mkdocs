@@ -1,8 +1,5 @@
-
-
-
-
-# Pricing Details
+Pricing Details
+===============
 
 Under Pricing tab the API providers can set the pricing plans for their
 APIs. Our Yappes platform provides three type of plans.
@@ -71,26 +68,22 @@ The fields under Freemium plan is displayed below.
 6.  Currency - Type of the currency(example: INR,USD).It is
     auto-complete field.
 
-Once the Pricing Plan is created, it needs to be **\"Activated\"** to
-make it available to the public.
+Once the Pricing Plan is created, it needs to be **"Activated"** to make
+it available to the public.
 
 The activated Pricing Plan can later be deactivated by clicking on the
-button \"DEACTIVATE\", which makes the pricing plan to be hidden from
-the platform users.
+button "DEACTIVATE", which makes the pricing plan to be hidden from the
+platform users.
 
 Provider can choose not disclose the pricing details and ask all the
 user to contact for price details.If this is the case, then provider can
-enable or disable \"Always contact for pricing\" by
-Checking/UnChecking.If this checkbox is \"checked\" then
+enable or disable "Always contact for pricing" by Checking/UnChecking.If
+this checkbox is "checked" then
 
 -   The consumer who wants to consume that API has to contact the API
-    provider using our Deal Room by clicking on the \"CONTACT\" button.
-    We will discuss about deals in detail under the section [\"How Deal
-    Room Works?\"](managedeals).
+    provider using our Deal Room by clicking on the "CONTACT" button. We
+    will discuss about deals in detail under the section ["How Deal Room
+    Works?"](managedeals).
 -   None of the Pricing plan will be visible for the user
 
-Next we will see the API Quata Details. [\"Next : Quota\"](Quota)
-
-
-
-
+Next we will see the API Quata Details. ["Next : Quota"](Quota)

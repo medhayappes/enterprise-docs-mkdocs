@@ -1,8 +1,5 @@
-
-
-
-
-# Reaching us is Simple!!
+Reaching us is Simple!!
+=======================
 
 You can get in touch with us through multiple mediums
 
@@ -10,9 +7,5 @@ You can get in touch with us through multiple mediums
     access our [Yappes Enterprise Support
     Desk](https://support.yappes.com). Using which you can raise support
     tickets.
--   You can always drop a mail to support\@yappes.com, We will be happy
+-   You can always drop a mail to support@yappes.com, We will be happy
     to assist you.
-
-
-
-

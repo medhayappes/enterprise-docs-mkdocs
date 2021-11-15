@@ -1,16 +1,13 @@
-
-
-
-
-# My User Profile
+My User Profile
+===============
 
 User profile gives the detailed information about logged in
-user.Clicking on the \"Username\" on top left corner will display the
+user.Clicking on the "Username" on top left corner will display the
 account tab.
 
 ![](../images/account/my_user_profile_account_click_01.png)
 
-Click on \"Account\" and you will be redirected to the profile view.
+Click on "Account" and you will be redirected to the profile view.
 
 ![](../images/account/my_user_profile_view_02.png)
 
@@ -23,8 +20,4 @@ Click on \"Account\" and you will be redirected to the profile view.
     3.  Social Information - All the details related to social
         networks.i.e Facebook,LinkedIn,Twitter,Stack Overflow.
 2.  We will cover the public profile of an API provider in the next
-    section [\"Next : API Provider Profile\"](apiProviderProfile)
-
-
-
-
+    section ["Next : API Provider Profile"](apiProviderProfile)

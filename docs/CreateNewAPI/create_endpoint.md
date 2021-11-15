@@ -1,8 +1,5 @@
-
-
-
-
-# Create Endpoints
+Create Endpoints
+================
 
 Endpoints can be created for a particular API by following the below
 steps.
@@ -25,13 +22,5 @@ steps.
 2.  Change necessary endpoint details and click on **Update** button to
     save changes.
 
-
-
-
-
-In the next section, we will see How to Add Logic [\"Next : Adding Logic
-\"](add_logic)
-
-
-
-
+In the next section, we will see How to Add Logic ["Next : Adding Logic
+"](add_logic)
