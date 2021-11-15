@@ -8,10 +8,10 @@ will see how the API Monitoring is incorporated to our platform .
 
 API Monitoring
 
-1.  [Add/update endpoint Tracker](add_endpoint_tracker)
-2.  [View Monitoring Charts](view_charts)
-3.  [API Monitoring Policies](api_monitoring_policies)
-4.  [Performance Metrics](performance_metrics)
+1.  [Add/update endpoint Tracker](add_endpoint_tracker.md)
+2.  [View Monitoring Charts](view_charts.md)
+3.  [API Monitoring Policies](api_monitoring_policies.md)
+4.  [Performance Metrics](performance_metrics.md)
 
 Next we will see in detail about Add/update endpoint Tracker ["Next :
-Add/update endpoint Tracker"](add_endpoint_tracker)
+Add/update endpoint Tracker"](add_endpoint_tracker.md)

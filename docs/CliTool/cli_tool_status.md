@@ -38,4 +38,4 @@ STATUS Operation if the remote code is ahead of the local
               
             
 
-**[CLI Commands List](cli_tool_commands)**
+**[CLI Commands List](cli_tool_commands.md)**

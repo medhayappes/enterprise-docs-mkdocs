@@ -13,4 +13,4 @@ Dashboard for Metrics
 3.  [Analytics](analytics_dashboard)
 
 Next we will see in detail about Marketplace Dashboard ["Next :
-Marketplace"](marketplace_dashboard)
+Marketplace"](marketplace_dashboard.md)

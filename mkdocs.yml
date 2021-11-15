@@ -2,10 +2,12 @@ site_name: Yappes Enterprise Documentation
 site_url: http://docs.enterprise.yappes.com/
 theme:
   name: material
-  logo: images/title_logo.png
+  logo: images/yappes_logo_v4.svg
   favicon: images/favicon-2.ico
   palette:
     primary: white
+extra_css:
+  - stylesheets/extra.css    
 nav:
   - Home: index.md
   - 'Onboard Existing API':
@@ -32,17 +34,18 @@ nav:
     - environment_new.md
     - tags_new.md
     - 'Managing Endpoints':
-      - resource_new.md
-      - create_endpoint.md
-      - add_logic.md
-      - endpoint_documentation.md
-      - testing_endpoint.md
-    - 'Remote Sources':
-      - remote_sources.md
-      - update_remote_sources.md
-    - 'Error Settings':
-      - error_settings.md
-      - configure_error_settings.md
+      - 'Resources/Endpoints': 'resource_new.md'
+      - CreateNewAPI/create_endpoint.md
+      - CreateNewAPI/add_logic.md
+      - CreateNewAPI/endpoint_documentation.md
+      - CreateNewAPI/testing_endpoint.md
+    - 'Manage Remote Sources':
+      - 'Remote Sources': 'RemoteSources/remote_sources.md'
+      - 'Add Remote Sources': 'RemoteSources/add_remote_sources.md'
+      - 'Update Remote Sources': 'RemoteSources/update_remote_sources.md'
+    - 'Manage Error Settings':
+      - 'Error Settings': 'ErrorSettings/error_settings.md'
+      - 'Configure Error Settings': 'ErrorSettings/configure_error_settings.md'
     - pricing_new.md
     - Quota_new.md
     - license_new.md
@@ -123,6 +126,45 @@ nav:
   - 'Gateway Policies':
     - 'Add-Edit-Delete Gateway Policies': 'gateway_policy.md'
     - 'Attach Gateway Policies to subscriptions': 'attach_gateway_policy_to_subscriptions.md'
+  - 'CLI Tools' : 
+    - 'CLI Tools' : CliTool/cli_tool.md
+    - 'CLI Command List' : CliTool/cli_tool_commands.md
+    - 'Login' : CliTool/cli_tool_login.md
+    - 'Logout' : CliTool/cli_tool_logout.md
+    - 'Whoami' : CliTool/cli_tool_whoami.md
+    - 'Clone' : CliTool/cli_tool_clone.md
+    - 'Status' : CliTool/cli_tool_status.md
+    - 'Pull' : CliTool/cli_tool_pull.md
+    - 'Deploy' : CliTool/cli_tool_deploy.md
+    - 'Execute' : CliTool/cli_tool_execute.md
+    - 'Loggin and Debugging' : CliTool/cli_log_debug.md
+  - 'Manage Versioning':
+    - 'Manage Versioning' : Versions/versions.md
+    - 'Create New Version?' : Versions/create_versions.md
+    - 'View Single Version': Versions/view_versions.md
+    - 'Deprecate/Reactive Version': Versions/deprecate_reactivate_versions.md
+    - 'Deprecate Multiple Version' : Versions/deprecate_multiple_versions.md
+    - 'Decommissioning': Versions/decommissioning.md
+  - 'API Monitoring':
+    - 'API Monitoring' : APIMonitoring/api_monitoring.md
+    - 'Add/Update Endpoint Tracker' : APIMonitoring/add_endpoint_tracker.md
+    - 'View Monitoring Charts' : APIMonitoring/view_charts.md
+    - 'API Monitoring Policies' : 
+      - 'API Monitoring Policies' : APIMonitoring/api_monitoring_policies.md
+      - 'Add/Update Policies' : APIMonitoring/add_policies.md
+      - 'Attach Policies to Trackers' : APIMonitoring/attach_policies_tracker.md
+      - 'Performance Metrics': APIMonitoring/performance_metrics.md
+  - 'Dashboard for Metrics':
+      - 'Dashboard for Metrics' : DashboardMetrics/dashboard_metrics.md
+      - 'Marketplace' : DashboardMetrics/marketplace_dashboard.md
+      - 'Organization' : DashboardMetrics/organization_dashboard.md
+      - 'Analytics' : DashboardMetrics/analytics_dashboard.md
+  - 'Manage API Groups': 
+      - 'Manage API Groups' : APIGroups/api_groups.md
+      - 'Create and Edit API Groups' : APIGroups/create_edit_api_groups.md
+      - 'Add/Remove APIs' : APIGroups/add_remove_apis.md
+      - 'Add/Remove Gateway Policies' : APIGroups/add_remove_gateway_policy.md
+      - 'Add/Remove Monitor Policies' : APIGroups/add_remove_monitor_policy.md
 # plugroute_:
 #   - search
  #   - awesome-pages

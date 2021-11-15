@@ -19,4 +19,4 @@ LOGOUT Operation
               
             
 
-**[CLI Commands List](cli_tool_commands)**
+**[CLI Commands List](cli_tool_commands.md)**

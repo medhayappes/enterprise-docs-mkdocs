@@ -76,4 +76,4 @@ time it shows the message as the already-in sync.
               
             
 
-[CLI Commands List](cli_tool_commands)
+[CLI Commands List](cli_tool_commands.md)
