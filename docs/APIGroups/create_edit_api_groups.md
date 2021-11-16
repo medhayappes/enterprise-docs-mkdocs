@@ -17,7 +17,6 @@ To start with this, we need to navigate to **API Groups** tab.
 -   User will see API groups cards.
     ![](../images/dashboard/api-groups/create_api_group_004.png)
 -   To edit API group, click on view button on the API group card.
-    ![](../images/dashboard/api-groups/create_api_group_005.png)
 -   User can edit API group name and Description. After edit click on
     Update button.
     ![](../images/dashboard/api-groups/edit_api_group_001.png)    
