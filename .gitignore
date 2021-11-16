@@ -1,0 +1,65 @@
+# Dependecy Modules
+nodemodules/
+
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+cache.properties
+
+# Eclipse Core
+.project
+
+#idea IDE Core
+.idea
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+# PHP QA Builders
+build/
+vendor/
+
+# Temp Folder and Files
+pdf/
+*.pdf
+*.xls
+
+# external images
+externalfiles/
+
+#Build/Compile files
+*.lock
+
+# npm files
+node_modules/
+
+package-lock.json
+
+#dist files
+site/
