@@ -2,12 +2,27 @@ site_name: Yappes Enterprise Documentation
 site_url: http://docs.enterprise.yappes.com/
 theme:
   name: material
-  logo: images/title_logo.png
+  logo: images/yappes_logo_v4.svg
+  favicon: images/favicon-2.ico
+  palette:
+    primary: white
+extra_css:
+  - stylesheets/extra.css
+copyright: Copyright &copy; 2021 Yappes Technologies Private Limited
+extra:
+  generator: true
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/yappestech
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/yappes/
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/yappes          
 nav:
   - Home: index.md
   - 'Onboard Existing API':
-    - add_api.md
-    - api_details.md
+    - 'Add API': 'add_api.md'
+    - 'API Details': 'api_details.md'
     - environment.md
     - route_map.md
     - tags.md
@@ -15,37 +30,38 @@ nav:
     - add_endpoint.md
     - add_multiple_endpoint.md
     - add_authentication.md
-    - previewAPI.md
+    - 'Preview API': 'previewAPI.md'
     - pricing.md
     - quota.md
     - license.md
     - about.md
     - security.md
-    - delete_api.md
-    - change_api_ownership.md
-  - 'Create New API':
-    - create_new_api.md
-    - api_details_new.md
+    - 'Delete API': 'delete_api.md'
+    - 'Change API Ownership': 'change_api_ownership.md'
+  - 'Build New API':
+    - 'Create New API': 'create_new_api.md'
+    - 'API details new': 'api_details_new.md'
     - environment_new.md
     - tags_new.md
     - 'Managing Endpoints':
-      - resource_new.md
-      - create_endpoint.md
-      - add_logic.md
-      - endpoint_documentation.md
-      - testing_endpoint.md
-    - 'Remote Sources':
-      - remote_sources.md
-      - update_remote_sources.md
-    - 'Error Settings':
-      - error_settings.md
-      - configure_error_settings.md
+      - 'Resources/Endpoints': 'resource_new.md'
+      - CreateNewAPI/create_endpoint.md
+      - CreateNewAPI/add_logic.md
+      - CreateNewAPI/endpoint_documentation.md
+      - CreateNewAPI/testing_endpoint.md
+    - 'Manage Remote Sources':
+      - 'Remote Sources': 'RemoteSources/remote_sources.md'
+      - 'Add Remote Sources': 'RemoteSources/add_remote_sources.md'
+      - 'Update Remote Sources': 'RemoteSources/update_remote_sources.md'
+    - 'Manage Error Settings':
+      - 'Error Settings': 'ErrorSettings/error_settings.md'
+      - 'Configure Error Settings': 'ErrorSettings/configure_error_settings.md'
     - pricing_new.md
     - Quota_new.md
     - license_new.md
     - about_new.md
     - security_new.md
-  -  publish_api.md
+  - 'Publish API': 'publish_api.md'
   - 'Consume an API':
     - consume_api.md
     - consume_filter_api.md
@@ -78,7 +94,87 @@ nav:
     - manageInvoice.md
   - 'Follow/Unfollow API': 'follow_unfollow_api.md'
   - 'Manage Votes API': 'vote_cancelvote_api.md'
-  - 'API Analytics Providers'
+  - 'Manage Collections And Objects':
+    - CollectionsAndObjects/manage_collections_and_objects.md
+    - 'Create/Update Collection': CollectionsAndObjects/create_update_delete_collection.md
+    - 'Create/Update Objects': CollectionsAndObjects/create_update_delete_object.md
+  - 'Report An API': 'reportAPI.md'
+  - 'My API Subscriptions': 'MyApiSubscriptions/my_api_subscriptions.md'
+  - 'API Analytics Providers':
+    - 'API Analytics': APIAnalytics/api_analytics.md
+    - 'API Level': APIAnalytics/analytics_api_level.md
+    - 'Endpoint Level': APIAnalytics/analytics_endpoint_level.md
+    - 'User Level': APIAnalytics/analytics_user_level.md
+  - 'API Analytics Consumers':
+    - 'API Analytics Consumer': APIAnalytics/APIAnalytics_consumers.md
+    - 'API Level': APIAnalytics/analytics_consumer_apilevel.md  
+  - 'Javascript Object References':
+    - 'About Javascript Objects': 'JSOReferences/js_object_ref.md'
+    - 'Yappes Objects': 'JSOReferences/jso_req_res.md'
+    - 'Remote Connectors':
+      - 'About Remote Connectors': 'JSOReferences/jso_remote_connect.md'
+      - 'MySQL Remote Connector': 'JSOReferences/jso_mysql_connect.md'
+      - 'Mongo Remote Connector': 'JSOReferences/jso_mongo_connect.md'
+      - 'Store Remote Connector': 'JSOReferences/jso_store_connect.md'
+      - 'Webservice Connector': 'JSOReferences/jso_https_connect.md'
+      - 'MariaDB Remote Connector': 'JSOReferences/jso_mariadb_connect.md'
+      - 'GraphQL Remote Connector': 'JSOReferences/jso_graphql_connect.md'
+      - 'Postgres SQL Remote Connector': 'JSOReferences/jso_postgres_connect.md'
+      - 'MSSQL Remote Connector': 'JSOReferences/jso_mssql_connect.md'
+      - 'Oracle Remote Connector': 'JSOReferences/jso_oracle_connect.md'
+    - 'Use Environment Variables In Business Logic': 'JSOReferences/environment_var_in_business_logic.md'
+  - 'Organizations':
+    - 'About Organizations': 'organizations.md'
+    - 'Create And Edit Organization': 'organizations_create_edit.md'
+    - 'Invite Users To Organization': 'organizations_invite_user.md'
+    - 'Create User Roles': 'organizations_user_roles.md'
+    - 'Change Ownership': 'organizations_changeownership.md'
+    - 'Create Team': 'organizations_create_team.md'
+    - 'Change Organization View': 'organization_view.md'
+  - 'API-Origanizations Association':
+    - 'Associate API with Organizations': 'organizations_associate_api.md'
+  - 'Gateway Policies':
+    - 'Add-Edit-Delete Gateway Policies': 'gateway_policy.md'
+    - 'Attach Gateway Policies to subscriptions': 'attach_gateway_policy_to_subscriptions.md'
+  - 'CLI Tools' : 
+    - 'CLI Tools' : CliTool/cli_tool.md
+    - 'CLI Command List' : CliTool/cli_tool_commands.md
+    - 'Login' : CliTool/cli_tool_login.md
+    - 'Logout' : CliTool/cli_tool_logout.md
+    - 'Whoami' : CliTool/cli_tool_whoami.md
+    - 'Clone' : CliTool/cli_tool_clone.md
+    - 'Status' : CliTool/cli_tool_status.md
+    - 'Pull' : CliTool/cli_tool_pull.md
+    - 'Deploy' : CliTool/cli_tool_deploy.md
+    - 'Execute' : CliTool/cli_tool_execute.md
+    - 'Loggin and Debugging' : CliTool/cli_log_debug.md
+  - 'Manage Versioning':
+    - 'Manage Versioning' : Versions/versions.md
+    - 'Create New Version?' : Versions/create_versions.md
+    - 'View Single Version': Versions/view_versions.md
+    - 'Deprecate/Reactive Version': Versions/deprecate_reactivate_versions.md
+    - 'Deprecate Multiple Version' : Versions/deprecate_multiple_versions.md
+    - 'Decommissioning': Versions/decommissioning.md
+  - 'API Monitoring':
+    - 'API Monitoring' : APIMonitoring/api_monitoring.md
+    - 'Add/Update Endpoint Tracker' : APIMonitoring/add_endpoint_tracker.md
+    - 'View Monitoring Charts' : APIMonitoring/view_charts.md
+    - 'API Monitoring Policies' : 
+      - 'API Monitoring Policies' : APIMonitoring/api_monitoring_policies.md
+      - 'Add/Update Policies' : APIMonitoring/add_policies.md
+      - 'Attach Policies to Trackers' : APIMonitoring/attach_policies_tracker.md
+      - 'Performance Metrics': APIMonitoring/performance_metrics.md
+  - 'Dashboard for Metrics':
+      - 'Dashboard for Metrics' : DashboardMetrics/dashboard_metrics.md
+      - 'Marketplace' : DashboardMetrics/marketplace_dashboard.md
+      - 'Organization' : DashboardMetrics/organization_dashboard.md
+      - 'Analytics' : DashboardMetrics/analytics_dashboard.md
+  - 'Manage API Groups': 
+      - 'Manage API Groups' : APIGroups/api_groups.md
+      - 'Create and Edit API Groups' : APIGroups/create_edit_api_groups.md
+      - 'Add/Remove APIs' : APIGroups/add_remove_apis.md
+      - 'Add/Remove Gateway Policies' : APIGroups/add_remove_gateway_policy.md
+      - 'Add/Remove Monitor Policies' : APIGroups/add_remove_monitor_policy.md
 # plugroute_:
 #   - search
  #   - awesome-pages

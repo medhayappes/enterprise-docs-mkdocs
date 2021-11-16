@@ -20,13 +20,13 @@ The Pricing plans are broadly classified as two groups
     process, will be visible only between the parties(Provider/Consumer)
     involved in the deal.
 
-![](../images/existing_api/existing_api_pricing_01.png)
+![](images/existing_api/existing_api_pricing_01.png)
 
 Below we will discuss in detail about the each plan type:
 
 FREE
 
-![](../images/existing_api/existing_api_pricing_free_02.png)
+![](images/existing_api/existing_api_pricing_free_02.png)
 
 The fields under free plan is displayed below.
 
@@ -40,7 +40,7 @@ The fields under free plan is displayed below.
 
 PAID
 
-![](../images/existing_api/existing_api_pricing_paid_03.png)
+![](images/existing_api/existing_api_pricing_paid_03.png)
 
 The fields under Paid plan is displayed below.
 
@@ -56,7 +56,7 @@ The fields under Paid plan is displayed below.
 
 FREEMIUM
 
-![](../images/existing_api/existing_api_pricing_freemium_04.png)
+![](images/existing_api/existing_api_pricing_freemium_04.png)
 
 The fields under Freemium plan is displayed below.
 

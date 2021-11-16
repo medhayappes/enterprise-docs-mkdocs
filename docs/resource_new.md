@@ -12,7 +12,7 @@ We will see in detail how to create and configure the endpoints
 Once you have successfully created the API, next step is to create the
 endpoints.
 
-![](../images/new_api/resource/view_01.png)
+![](images/new_api/resource/view_01.png)
 
 Under Managing Endpoints, we will see each of the following
 functionalities.

@@ -3,7 +3,7 @@ Application Keys
 
 Under the keys section the users can manage their application-keys.
 
-![](../images/dashboard/applications/keys_update_01.png)
+![](images/dashboard/applications/keys_update_01.png)
 
 Whenever the User signs up to our Yappes Platform, "Default Application"
 will be created with two different keys one for "Production" and

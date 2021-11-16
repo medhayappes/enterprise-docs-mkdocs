@@ -138,4 +138,4 @@ Data:{"name":"YA1","code":"yapp123","country":"India"}
             
 
 Next we will see in detail about the Mongo Connectors["Next : Mongo DB
-Remote Connectors"](mongo_remote_connt)
+Remote Connectors"](jso_mongo_connect.md)

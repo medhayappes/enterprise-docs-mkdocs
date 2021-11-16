@@ -7,7 +7,7 @@ You can also add multiple Endpoint, if you have the Swagger Spec file
 for your API which we will discuss in detail on ["Add Multiple
 Endpoints"](addmultiplendpoint)
 
-![](../images/existing_api/existing_api_resources_02.png)
+![](images/existing_api/existing_api_resources_02.png)
 
 Once you have clicked the "ADD ENDPOINT" button following sets of
 details needs to be provided.
@@ -40,7 +40,7 @@ Once all the details are entered, click on the "ADD" button.As soon as
 the endpoint is created, the created endpoints are listed below.Click
 the arrow to view the endpoint details.
 
-![](../images/existing_api/existing_api_resources_add_03.png)
+![](images/existing_api/existing_api_resources_add_03.png)
 
 Once you click the arrow shown in the above picture,the detailed view of
 the endpoint is displayed.
@@ -49,14 +49,14 @@ There you can see the details already you provided when creating the
 endpoint plus some additional details.We will go each step in detail in
 this section itself.
 
-![](../images/existing_api/existing_api_resources_delete_04.png)
+![](images/existing_api/existing_api_resources_delete_04.png)
 
 Delete - You can delete the endpoint by clicking "delete" icon *delete*
 button.
 
 Add Headers Parameters for the API
 
-![](../images/existing_api/existing_api_resources_add_headers_05.png)
+![](images/existing_api/existing_api_resources_add_headers_05.png)
 
 1.  Once you click "Add header" a dialog will be opened and asks the
     details about the header you are going to give.
@@ -80,7 +80,7 @@ Add Headers Parameters for the API
 
 Add Query Parameters for your API
 
-![](../images/existing_api/existing_api_resources_add_queryparam_06.png)
+![](images/existing_api/existing_api_resources_add_queryparam_06.png)
 
 1.  Once you click "Add Query Parameter" a dialog will be opened and
     asks the details about the query parameter you are going to give.
@@ -108,7 +108,7 @@ Add Query Parameters for your API
 
 Add Form data for your API
 
-![](../images/existing_api/existing_api_resources_add_formdata_07.png)
+![](images/existing_api/existing_api_resources_add_formdata_07.png)
 
 1.  Once you click "Add Form Data" a dialog will be opened and asks the
     details about the Form Data you are going to give.

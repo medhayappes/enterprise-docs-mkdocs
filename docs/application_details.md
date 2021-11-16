@@ -3,7 +3,7 @@ Applications Details
 
 Application details are basic details of an application
 
-![](../images/dashboard/applications/details_update_01.png)
+![](images/dashboard/applications/details_update_01.png)
 
 1.  Application Name - Provide the name for whhich you will be consuming
     the APIs.

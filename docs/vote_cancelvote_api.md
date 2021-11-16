@@ -11,16 +11,16 @@ cancel their vote.
 1.  Every User can vote the API by clicking 'Thumbs up' icon showned
     below.Total number of votes of this API is also displayed here.
 
-    ![](../images/social/vote_unvote_vote_click_03.png)
+    ![](images/social/vote_unvote_vote_click_03.png)
 
 2.  If the logged in user is already voted this API ,Then the 'Thumbs
     up' icon is highlighted along with total number of votes.
 
-    ![](../images/social/vote_unvote_voted_04.png)
+    ![](images/social/vote_unvote_voted_04.png)
 
 3.  User can cancel the vote by clicking the same icon.
 
-    ![](../images/social/vote_unvote_voted_04.png)
+    ![](images/social/vote_unvote_voted_04.png)
 
 In the next section, we will see How to Manage Collection ["Next :
 Manage Collections"](manageCollectionsObjects)

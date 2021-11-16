@@ -14,7 +14,7 @@ Click on "ADD AUTHENTICATION" under resource tab to add the
 authentication.Then a pop will be displayed ,there you can give the
 details of the authentication.
 
-![](../images/add_api/addauth_update.png)
+![](images/add_api/addauth_update.png)
 
 Authentication Type
 
@@ -22,7 +22,7 @@ Yappes platform provides 4 types of authentication configurations.
 
 Header
 
-![](../images/add_api/auth1_update.png)
+![](images/add_api/auth1_update.png)
 
 Under "Header Authentication" you need to enter the following details.
 
@@ -31,7 +31,7 @@ Under "Header Authentication" you need to enter the following details.
 
 HTTP Basic
 
-![](../images/add_api/auth2_update.png)
+![](images/add_api/auth2_update.png)
 
 1.  Under "HTTP Basic Authentication" you need to enter the following
     details.
@@ -40,7 +40,7 @@ HTTP Basic
 
 OAUTH2
 
-![](../images/add_api/auth3_update.png)
+![](images/add_api/auth3_update.png)
 
 1.  Under "OAuth2 Authentication" you need to enter the following
     details.
@@ -60,7 +60,7 @@ OAUTH2
 
 Query Parameter
 
-![](../images/add_api/auth4_update.png)
+![](images/add_api/auth4_update.png)
 
 Under "Query Parameter Authentication" you need to enter the following
 details.

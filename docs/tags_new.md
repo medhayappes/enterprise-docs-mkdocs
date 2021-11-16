@@ -5,7 +5,7 @@ In Yappes platform, categories helps in categorizing the API based on
 the service it provides. This tagging helps the users to perform a
 comprehensive search of the APIs.
 
-![](../images/new_api/tags_view_04.png)
+![](images/new_api/tags_view_04.png)
 
 1.  categories - Predefined list of categories which the User needs to
     select. Multiple categories can be selected/unselected.

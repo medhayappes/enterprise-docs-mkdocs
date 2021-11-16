@@ -21,16 +21,16 @@ afore-mentioned feature.
     Organization or not.  
     Also, you must have the role as an owner in that Organization.**
 
-    ![](../images/dashboard/organization/ownership_update_01.png)
+    ![](images/dashboard/organization/ownership_update_01.png)
 
 2.  Here you can find two different buttons named "CHANGE OWNERSHIP" and
     "DELETE ORGANIZATION"
 
-    ![](../images/dashboard/organization/ownership_update_02.png)
+    ![](images/dashboard/organization/ownership_update_02.png)
 
 3.  Click "CHANGE OWNERSHIP" button it opens the popup.
 
-    ![](../images/dashboard/organization/ownership_update_03.png)
+    ![](images/dashboard/organization/ownership_update_03.png)
 
 4.  In Input box search for the user whom you want to change the
     ownership of the Organization.    
@@ -39,12 +39,12 @@ afore-mentioned feature.
     want to change the role Follow this
     [link](organizations_user_roles))**
 
-    ![](../images/dashboard/organization/ownership_update_04.png)
+    ![](images/dashboard/organization/ownership_update_04.png)
 
 5.  Select the user from the dropdown and click on "CHANGE OWNERSHIP"
     Button. In confirm box click Yes.
 
-    ![](../images/dashboard/organization/ownership_update_05.png)
+    ![](images/dashboard/organization/ownership_update_05.png)
 
 6.  After the redirection, If you go and check in the Organization
     dashboard tab under the "Owned Organization", You can find the
@@ -53,15 +53,15 @@ afore-mentioned feature.
     **Note: If you're having only one Organization otherwise it will
     disappear from Owned organization tab to Member Organization tab.**
 
-    ![](../images/dashboard/organization/ownership_update_06.png)
+    ![](images/dashboard/organization/ownership_update_06.png)
 
 7.  When you click the Member Organization Tab it shows the you are the
     member of that Organization. This is means you have successfully
     changed the ownership of the Organization to someone who is the part
     of the organization as the role of "api-creator".
 
-    ![](../images/dashboard/organization/ownership_update_07.png)
+    ![](images/dashboard/organization/ownership_update_07.png)
 
 8.  In the next section, we will see how to manage the team on
     Organization in detail ["Next :Manage the team in
-    Organization"](organizations_create_team)
+    Organization"](organizations_create_team.md)

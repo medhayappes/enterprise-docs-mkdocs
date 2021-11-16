@@ -5,11 +5,11 @@ User profile gives the detailed information about logged in
 user.Clicking on the "Username" on top left corner will display the
 account tab.
 
-![](../images/account/my_user_profile_account_click_01.png)
+![](images/account/my_user_profile_account_click_01.png)
 
 Click on "Account" and you will be redirected to the profile view.
 
-![](../images/account/my_user_profile_view_02.png)
+![](images/account/my_user_profile_view_02.png)
 
 1.  Profile of the user contains the following informations.
     1.  Basic Information - It includes Email

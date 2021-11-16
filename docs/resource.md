@@ -7,7 +7,7 @@ details about Endpoints, Authentication, Preview, etc.
 Once you have successfully created the API,Next step is to create the
 endpoints.
 
-![](../images/existing_api/existing_api_resources_01.png)
+![](images/existing_api/existing_api_resources_01.png)
 
 Under the resource we have the following functionalities.
 

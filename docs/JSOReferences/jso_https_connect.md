@@ -364,4 +364,4 @@ For more examples click
 [here](https://github.com/yappes-technologies/logic-examples).
 
 Next we will see in detail about the MariaDB Remote Connectors ["Next :
-MariaDB Remote Connectors"](maria_remote_connt)
+MariaDB Remote Connectors"](jso_mariadb_connect.md)

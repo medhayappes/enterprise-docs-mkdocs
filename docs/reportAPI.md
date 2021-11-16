@@ -6,13 +6,13 @@ having wrong information in its Yappes platform.
 
 1.  Click on Report button visible on the API Details View Page.
 
-    ![](../images/report_api/report_api_01.png)
+    ![](images/report_api/report_api_01.png)
 
 2.  On click, a modal view opens prompting the user to enter report
     **Type** and **Description**. Click on **Submit** button to Report
     the API.
 
-    ![](../images/report_api/report_api_02.png)
+    ![](images/report_api/report_api_02.png)
 
     -   The available options for **Type** are :
         1.  Not Working

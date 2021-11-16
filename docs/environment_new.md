@@ -18,7 +18,7 @@ By Default during the creation of the API, the Base URL value will be
 taken for all the environments and the default environment will be
 testing.
 
-![](../images/new_api/environment_view_02.png)
+![](images/new_api/environment_view_02.png)
 
 1.  User can change the environment used during publishing the API .
 2.  Three types of environment and corresponding base url will be
@@ -27,7 +27,7 @@ testing.
 User can also configure environment specific variables to be used in
 thier business logic [(Refere Section 20.3)](environment_var)
 
-![](../images/new_api/environment_configclick_03.png)
+![](images/new_api/environment_configclick_03.png)
 
 1.  User can edit the environment variable by clicking update button
     under configurations.

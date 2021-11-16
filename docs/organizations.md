@@ -13,7 +13,7 @@ its subsections, we will get in detail about how we can use the
 1.  The user can navigate to the Organizations section under Yappes
     Dashboard
 
-    ![](../images/dashboard/organization_view_01.png)
+    ![](images/dashboard/organization_view_01.png)
 
 2.  Click on Organizations tab, It will list user owned organization and
     user member organization.    
@@ -27,8 +27,8 @@ its subsections, we will get in detail about how we can use the
 4.  "Member Organization" tab list the organization in which you are a
     member with role "api-reader" or "api-creator".
 
-    ![](../images/dashboard/organization/organization_view_02.png)
+    ![](images/dashboard/organization/organization_view_02.png)
 
 5.  In the next section, we will see how to create an organization in
     detail ["Next: Create/Edit an
-    organization"](create_edit_organizations)
+    organization"](organizations_create_edit.md)

@@ -1,9 +1,10 @@
-# mkdocs-material
-MkDocs site for Enterprise documentation
+# Yappes Enterprise Docs <!-- omit in toc -->
+
+This repository contains the documentation website code and Markdown source files for [docs.enterprise.yappes.com](https://docs.enterprise.yappes.com)
 
 ## How to setup:
 
-1. Clone the master reporsitory locally
+1. Clone the main reporsitory locally
 2. Install mkdocs
 `pip install mkdocs`
 3. Install mkdocs
@@ -13,10 +14,7 @@ MkDocs site for Enterprise documentation
 
 The theme used is [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/). There are plenty of options to customize the fonts, colors, navigation etc.
 
-## To Do
+## License
+The Yappes product documentation in the docs folders are licensed under a CC-BY license.
 
-1. Copy the markdown files in the docs folder (including subfolders) to the Yappes repo
-2. Modify the links in the markdown files
-3. Complete the Navigation menu in mkdos.yml
-4. Modify the logo (its very small)
-5. Modify the fonts and colors to match our theme
+All other code in this repository is licensed under the MIT license.

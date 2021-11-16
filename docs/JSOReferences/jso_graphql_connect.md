@@ -62,4 +62,4 @@ For more examples click
 [here](https://github.com/yappes-technologies/logic-examples).
 
 Next we will see in detail about How to use [PostgresSQL Connectors
-?](postgres_remote_connt)
+?](jso_postgres_connect.md)
