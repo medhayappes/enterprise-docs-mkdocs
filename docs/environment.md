@@ -18,7 +18,7 @@ By Default during the creation of the API, the Base URL value will be
 taken for all the environments and the defautl environment will be
 testing.
 
-![](../images/existing_api/existing_api_environment_01.png)
+![](images/existing_api/existing_api_environment_01.png)
 
 1.  User can change the environment used during publishing the API .
 2.  Three types of environment and corresponding base url will be

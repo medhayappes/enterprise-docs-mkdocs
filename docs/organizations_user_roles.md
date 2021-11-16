@@ -27,31 +27,31 @@ section "TBD".
     **Note: When you try to invite a user to the organization as
     default, user are assigned role as "api-reader"**
 
-    ![](../images/dashboard/organization/role_update_01.png)
+    ![](images/dashboard/organization/role_update_01.png)
 
 2.  Under the People tab, you can find the Edit Button under Action
     Column on the user row.    
     **Note: You Must have the role as Owner to see the Edit Button and
     give permission to change the role of the users**
 
-    ![](../images/dashboard/organization/role_update_05.png)
+    ![](images/dashboard/organization/role_update_05.png)
 
 3.  When you click the button it will open the pop up with the values
     User Email,Roles (as a dropdown)
 
-    ![](../images/dashboard/organization/role_update_02.png)
+    ![](images/dashboard/organization/role_update_02.png)
 
 4.  You can change the user role from user "api-reader" to
     "api-creator".    
     **Note: As Default user is assigned role as "api-reader".**
 
-    ![](../images/dashboard/organization/role_update_03.png)
+    ![](images/dashboard/organization/role_update_03.png)
 
 5.  After successful changing of the role, you can see the user role
     under the people tab. (which is changed from the "api-reader" to
     "api-creator").
 
-    ![](../images/dashboard/organization/role_update_04.png)
+    ![](images/dashboard/organization/role_update_04.png)
 
 6.  In the next section, we will see how to Change Ownership of an
     Organizations in detail. ["Next: Change Ownership of an

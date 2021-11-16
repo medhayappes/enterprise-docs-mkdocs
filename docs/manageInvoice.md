@@ -4,7 +4,7 @@ Manage Invoice
 Manage Invoice gives the detailed information of the Pending/Archive
 Invoices.
 
-![](../images/account/manage_invoices_view_07.png)
+![](images/account/manage_invoices_view_07.png)
 
 1.  Pending Invoices
 

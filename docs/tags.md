@@ -5,7 +5,7 @@ In Yappes platform, Tags helps in categorizing the API based on the
 service it provides. This tagging helps the users to perform a
 comprehensive search of the APIs.
 
-![](../images/existing_api/existing_api_tags_01.png)
+![](images/existing_api/existing_api_tags_01.png)
 
 1.  Tags - Predefined list of tags which the User needs to select.
     Multiple tags can be selected/unselected.

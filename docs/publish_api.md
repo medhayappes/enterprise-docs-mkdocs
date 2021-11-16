@@ -8,17 +8,17 @@ Below are the steps to be followed to Publish the API:
 
 1.  Click on the "Dashboard" Link
 
-    ![](../images/publish/publish_api_dashbord_click_01.png)
+    ![](images/publish/publish_api_dashbord_click_01.png)
 
 2.  From My API's tab, click view button of an API.
 
-    ![](../images/publish/publish_api_view_click_02.png)
+    ![](images/publish/publish_api_view_click_02.png)
 
 3.  If the API is not already published, there will be button visible
     under 'API Details' tab. Click on 'PUBLISH' button to publish your
     api
 
-    ![](../images/publish/publish_api_publish_click_03.png)
+    ![](images/publish/publish_api_publish_click_03.png)
 
 4.  Things to remember before publishing an api.
     -   API must be having atleast one tag.

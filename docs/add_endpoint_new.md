@@ -7,7 +7,7 @@ You can also add multiple Endpoint, if you have the Swagger Spec file
 for your API which we will discuss in detail on ["Add Multiple
 Endpoints"](addmultiplendpoint_new)
 
-![](../images/add_api/aa7_update.png)
+![](images/add_api/aa7_update.png)
 
 Once you have clicked the "ADD ENDPOINT" button following sets of
 details needs to be provided.
@@ -39,7 +39,7 @@ Once all the details are entered, click on the "ADD" button.As soon as
 the endpoint is created, the created endpoints are listed below.Click
 the arrow to view the endpoint details.
 
-![](../images/add_api/viewendpoint_update.png)
+![](images/add_api/viewendpoint_update.png)
 
 Once you click the arrow shown in the above picture,the detailed view of
 the endpoint is displayed.
@@ -48,14 +48,14 @@ There you can see the details already you provided when creating the
 endpoint plus some additional details.We will go each step in detail in
 this section itself.
 
-![](../images/add_api/aa8_update.png)
+![](images/add_api/aa8_update.png)
 
 Delete - You can delete the endpoint by clicking "delete" icon *delete*
 button.
 
 Add Headers Parameters for the API
 
-![](../images/add_api/aa9_update.png)
+![](images/add_api/aa9_update.png)
 
 1.  Once you click "Add header" a dialog will be opened and asks the
     details about the header you are going to give.
@@ -79,7 +79,7 @@ Add Headers Parameters for the API
 
 Add Query Parameters for your API
 
-![](../images/add_api/aa10_update.png)
+![](images/add_api/aa10_update.png)
 
 1.  Once you click "Add Query Parameter" a dialog will be opened and
     asks the details about the query parameter you are going to give.
@@ -107,7 +107,7 @@ Add Query Parameters for your API
 
 Add Form data for your API
 
-![](../images/add_api/aa11_update.png)
+![](images/add_api/aa11_update.png)
 
 1.  Once you click "Add Form Data" a dialog will be opened and asks the
     details about the Form Data you are going to give.

@@ -5,7 +5,7 @@ API Provider can use this section to mention their Terms and Conditions
 to use the APIs. It is provided as rich text format which makes the user
 to provide all kinds of formatting or beautification to his/her APIs.
 
-![](../images/new_api/api_terms_cond.png)
+![](images/new_api/api_terms_cond.png)
 
 1.  You can type in or copy & paste the T&C related to your APIs.You can
     format the text in the way you needed.

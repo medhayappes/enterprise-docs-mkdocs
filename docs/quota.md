@@ -10,7 +10,7 @@ API Provider can use it to define the "Number of Transactions" and the
 By Default the number of transaction enabled will be 100 / month
 whenever the API is created.
 
-![](../images/existing_api/existing_api_quota_01.png)
+![](images/existing_api/existing_api_quota_01.png)
 
 1.  As we said the default transaction will be 100/month for an API.That
     will be displayed under this section.

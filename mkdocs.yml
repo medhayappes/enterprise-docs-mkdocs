@@ -7,12 +7,22 @@ theme:
   palette:
     primary: white
 extra_css:
-  - stylesheets/extra.css    
+  - stylesheets/extra.css
+copyright: Copyright &copy; 2021 Yappes Technologies Private Limited
+extra:
+  generator: true
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/yappestech
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/yappes/
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/yappes          
 nav:
   - Home: index.md
   - 'Onboard Existing API':
-    - add_api.md
-    - api_details.md
+    - 'Add API': 'add_api.md'
+    - 'API Details': 'api_details.md'
     - environment.md
     - route_map.md
     - tags.md
@@ -20,17 +30,17 @@ nav:
     - add_endpoint.md
     - add_multiple_endpoint.md
     - add_authentication.md
-    - previewAPI.md
+    - 'Preview API': 'previewAPI.md'
     - pricing.md
     - quota.md
     - license.md
     - about.md
     - security.md
-    - delete_api.md
-    - change_api_ownership.md
-  - 'Create New API':
-    - create_new_api.md
-    - api_details_new.md
+    - 'Delete API': 'delete_api.md'
+    - 'Change API Ownership': 'change_api_ownership.md'
+  - 'Build New API':
+    - 'Create New API': 'create_new_api.md'
+    - 'API details new': 'api_details_new.md'
     - environment_new.md
     - tags_new.md
     - 'Managing Endpoints':
@@ -51,7 +61,7 @@ nav:
     - license_new.md
     - about_new.md
     - security_new.md
-  -  publish_api.md
+  - 'Publish API': 'publish_api.md'
   - 'Consume an API':
     - consume_api.md
     - consume_filter_api.md

@@ -4,7 +4,7 @@ API Details
 At the initial steps the user will be prompted to provide only the basic
 details as shown in the below picture
 
-![](../images/existing_api/existing_api_preview_01.png)
+![](images/existing_api/existing_api_preview_01.png)
 
 1.  API Name - API Name which will be visible to the users once it is
     published

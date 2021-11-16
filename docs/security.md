@@ -9,7 +9,7 @@ header, when the request is routed through Yappes platform. API
 Providers can validate whether the request is coming from Yappes
 platform or not using the x-yappes-key value.
 
-![](../images/existing_api/existing_api_security_01.png)
+![](images/existing_api/existing_api_security_01.png)
 
 1.  Platform identity key is displayed here.
     -   Regenerate - You can use the same key or regenerate the key by

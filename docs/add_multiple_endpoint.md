@@ -7,7 +7,7 @@ file(JSON) for your API, then you can add multiple endpoints in one go.
 First click on "UPLOAD" button and a dialog will be opened for you to
 add the details
 
-![](../images/existing_api/existing_api_resources_swagger_08.png)
+![](images/existing_api/existing_api_resources_swagger_08.png)
 
 1.  Version Number - Version of your API
 2.  Changes - You have two options and select any one according to your

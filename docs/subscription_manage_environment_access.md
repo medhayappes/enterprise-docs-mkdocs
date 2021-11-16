@@ -6,12 +6,12 @@ Manage Environment Access
     because it's the default one. But You change the environment such as
     development, production using the checkboxes.
 
-    ![](../images/dashboard/subscriptions/providersubs_update_09.png)
+    ![](images/dashboard/subscriptions/providersubs_update_09.png)
 
 2.  To View Subscription you can click the button View Subscription
     Details
 
-    ![](../images/dashboard/subscriptions/providersubs_update_10.png)
+    ![](images/dashboard/subscriptions/providersubs_update_10.png)
 
 3.  After that you can update the environment using the update
     environment access Button.

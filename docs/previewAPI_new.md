@@ -6,7 +6,7 @@ This is the view which the consumer will be seeing as part of discovery
 process which we will go through in detail under the section [Consumer
 API View & Documentation](apiviewdoc)
 
-![](../images/add_api/preview1.png)
+![](images/add_api/preview1.png)
 
 1.  Here you can see that the "Preview" is categorised as 3 sub
     sections.
@@ -14,7 +14,7 @@ API View & Documentation](apiviewdoc)
         and **"Authentication tab"** which is used to set the
         authenticate for the API.
 
-        ![](../images/add_api/preview2.png)
+        ![](images/add_api/preview2.png)
 
         -   In this documentation we have used OAuth2 Authorization.It
             contains the following fields.
@@ -68,7 +68,7 @@ API View & Documentation](apiviewdoc)
         curl template. In future will be adding other language
         libraries.
 
-        ![](../images/add_api/preview3.png)
+        ![](images/add_api/preview3.png)
 
         -   The output contains Request url,Response body,Response
             header and Response code.

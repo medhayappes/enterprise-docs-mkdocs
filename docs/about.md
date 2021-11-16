@@ -6,7 +6,7 @@ API Provider can mention the detailed information of their APIs like,
 -   How to get the credentials for accessing your API?
 -   Contact Details and other required information related to your API
 
-![](../images/existing_api/existing_api_about_01.png)
+![](images/existing_api/existing_api_about_01.png)
 
 1.  You can type in or copy & paste the information related to your
     APIs.You can format the text in the way you needed

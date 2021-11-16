@@ -6,7 +6,7 @@ Yappes Platform. Our platform will automatically take care of the
 routing and you just need to test the connection between the Yappes
 server and your API hostname/baseurl
 
-![](../images/existing_api/existing_api_routemap_01.png)
+![](images/existing_api/existing_api_routemap_01.png)
 
 1.  Yappes-Base-URL - By default it takes the API name to be part of the
     Yappes-Base-URL.  

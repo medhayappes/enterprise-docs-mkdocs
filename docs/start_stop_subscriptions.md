@@ -12,34 +12,34 @@ Plan of the API.
     process which we discussed in detail under section [Manage
     Deals-Provider](providerdeals)
 
-![](../images/dashboard/subscriptions_view_01.png)
+![](images/dashboard/subscriptions_view_01.png)
 
 1.  Provider can start the Subscription of the API once the status is
     "Deal Accepted". To enable subscription, change deal status to 'Deal
     Accepted', On changing, there will be a button "START SUBSCRIPTION"
     activated to enable the subscription.
 
-    ![](../images/dashboard/subscriptions/providersubs_update_01.png)
+    ![](images/dashboard/subscriptions/providersubs_update_01.png)
 
 2.  On clicking "START SUBSCRIPTION" button, it will list the available
     pricing plans which have been created earlier.
 
-    ![](../images/dashboard/subscriptions/providersubs_update_02.png)
+    ![](images/dashboard/subscriptions/providersubs_update_02.png)
 
 3.  Provider can also make a custom plan for that consumer alone using
     custom plan.
 
-    ![](../images/dashboard/subscriptions/providersubs_update_03.png)
+    ![](images/dashboard/subscriptions/providersubs_update_03.png)
 
 4.  To subscribe a consumer for an existing plan, click on subscribe
     button.
 
-    ![](../images/dashboard/subscriptions/providersubs_update_04.png)
+    ![](images/dashboard/subscriptions/providersubs_update_04.png)
 
 5.  To subscribe a consumer for a custom plan, click on create and
     subscribe button after providing pricing details.
 
-    ![](../images/dashboard/subscriptions/providersubs_update_05.png)
+    ![](images/dashboard/subscriptions/providersubs_update_05.png)
 
     And here after the successfull subscribed to the api you can see
     button called View Subscription Details button.In the next page we
@@ -54,7 +54,7 @@ Plan of the API.
         button as shown. It will unsubscribe the user from the existing
         plan.
 
-        ![](../images/dashboard/subscriptions/providersubs_update_12.png)
+        ![](images/dashboard/subscriptions/providersubs_update_12.png)
 
     2.  If the Pricing Plan type of the subscribed API is "Free", then
         API Consumer can directly stop the subscription.To stop
@@ -63,7 +63,7 @@ Plan of the API.
         Click on the Unsubscribe button for the API which you want to
         unsubscribe.
 
-        ![](../images/dashboard/subscriptions/providersubs_update_13.png)
+        ![](images/dashboard/subscriptions/providersubs_update_13.png)
 
 7.  In the next section, we will see how to manage the subscription
     details ["Next : Manage the Subscription"](manageSubcriptionDetails)
