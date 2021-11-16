@@ -15,6 +15,6 @@ This repository contains the documentation website code and Markdown source file
 The theme used is [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/). There are plenty of options to customize the fonts, colors, navigation etc.
 
 ## License
-The Yappes product documentation in the docs folders are licensed under a CC-BY license.
+The Yappes product documentation in the docs folders are licensed under a [CC-BY license](https://github.com/yappes-technologies/enterprise-docs-mkdocs/blob/main/LICENSE).
 
-All other code in this repository is licensed under the MIT license.
+All other code in this repository is licensed under the [MIT license](https://github.com/yappes-technologies/enterprise-docs-mkdocs/blob/main/LICENSE-CODE).
