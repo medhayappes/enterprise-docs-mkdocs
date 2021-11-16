@@ -9,6 +9,8 @@ theme:
 extra_css:
   - stylesheets/extra.css
 copyright: Copyright &copy; 2021 Yappes Technologies Private Limited
+repo_url: https://github.com/yappes-technologies/enterprise-docs-mkdocs
+repo_name: yappes-enterprise-docs
 extra:
   generator: true
   social:
@@ -131,8 +133,7 @@ nav:
     - 'Change Ownership': 'organizations_changeownership.md'
     - 'Create Team': 'organizations_create_team.md'
     - 'Change Organization View': 'organization_view.md'
-  - 'API-Origanizations Association':
-    - 'Associate API with Organizations': 'organizations_associate_api.md'
+    - 'Associate API': 'organizations_associate_api.md'
   - 'Gateway Policies':
     - 'Add-Edit-Delete Gateway Policies': 'gateway_policy.md'
     - 'Attach Gateway Policies to subscriptions': 'attach_gateway_policy_to_subscriptions.md'

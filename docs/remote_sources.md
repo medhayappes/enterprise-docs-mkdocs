@@ -5,7 +5,7 @@ At this point, User can create Remote Endpoints
 
 To get started, click on **Remote Resources.**
 
-![](images/remote_sources/remote_sources_1.png)
+<!-- ![](images/remote_sources/remote_sources_1.png) -->
 
 Yappes currently supports the following remote sources
 
