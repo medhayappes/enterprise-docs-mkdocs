@@ -22,8 +22,9 @@ view.
 -   You will now see the Collection view, where one can create/update a
     collection.
 
-Let us start in dealing [Next : Create/Update
-Collections?](create_update_delete_collection)
+Let us start in dealing 
+[Next : How to Create/Update Collections?](create_update_delete_collection.md)
 
-You can also see [How to Create/Update
-Objects?](create_update_delete_object)
+You can also see
+[Next : How to Create/Update Objects?](create_update_delete_object.md)
+

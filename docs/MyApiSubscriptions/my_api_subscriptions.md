@@ -26,5 +26,5 @@ Subscriptions** view.
     -   Subscribed On
     -   Deal Id
 
-In the next section, we will see API Analytics - Providers ["Next : API
-Analytics - Providers"](APIAnalytics)
+In the next section, we will see API Analytics - Providers 
+[Next : API Analytics - Providers](../APIAnalytics/api_analytics.md)

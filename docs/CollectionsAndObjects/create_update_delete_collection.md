@@ -28,5 +28,6 @@ Collections.
 -   Collection is updated and thus the details of the same will be
     rendered in the Collection view.
 
-Let us now see, [Next : How to Create/Update
-Objects?](create_update_delete_object)
+Let us now see, 
+[Next : How to Create/Update Objects?](create_update_delete_object.md)
+

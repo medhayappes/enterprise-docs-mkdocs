@@ -22,5 +22,5 @@ cancel their vote.
 
     ![](../images/social/vote_unvote_voted_04.png)
 
-In the next section, we will see How to Manage Collection ["Next :
-Manage Collections"](manageCollectionsObjects)
+In the next section, we will see How to Manage Collection
+API ["Next : Manage Collections and Objects"](CollectionsAndObjects/manage_collections_and_objects.md)

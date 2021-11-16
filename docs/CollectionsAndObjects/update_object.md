@@ -22,5 +22,5 @@ Updating Objects
 -   Once the changes are done, you can click on the UPDATE button.
 -   Object's property details will be updated accordingly and can be
     seen in the object list
--   After this we will be looking in to Reporting an API ["Next : How to
-    Report an API ?"](reportAPI)
+-   After this we will be looking in to Reporting an API
+    [Next : Reporting An API](../reportAPI.md)

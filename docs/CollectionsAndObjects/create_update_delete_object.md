@@ -22,9 +22,9 @@ necessary operations with respect to Objects
 Now, we will see each of the following in detail with respect to
 Objects.
 
-1.  [How to Create an Object?](create_object)
-2.  [How to Update an Object?](update_object)
+1.  [How to Create an Object?](create_object.md)
+2.  [How to Update an Object?](update_object.md)
 
-Let us start with, [Next : How to Create Objects?](create_object)
+Let us start with, [Next : How to Create Objects?](create_object.md)
 
-You can also see, [How to Update Objects?](update_object)
+You can also see, [How to Update Objects?](update_object.md)

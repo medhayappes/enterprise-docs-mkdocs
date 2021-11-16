@@ -18,5 +18,5 @@ section.
 
     ![](../images/dashboard/analytics/provider_view_06.png)
 
--   Next , We will see API usage - User Level ["Next : User
-    Level"](analytics_user_level)
+-   Next , We will see API usage - User Level 
+[Next : User Level](analytics_user_level.md)
