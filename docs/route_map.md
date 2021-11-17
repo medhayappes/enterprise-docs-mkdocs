@@ -12,13 +12,18 @@ server and your API hostname/baseurl
     Yappes-Base-URL.  
     But you can change the name to suit your needs like your
     Company/Organization name.
-2.  Once it is changed make sure that "TEST CONNECTION" button is
+      <!--Please specify where to change it. No save button appearing here.-->
+      <!-- also change rightside API name to https://api.MyCompany.com -->
+2.  Once it is changed make sure that **TEST CONNECTION** button is
     clicked.
-    -   Success - If Yappes platform able to connect with the Base URL,
-        then it will display "Connection Successful" highlighted in
+    -   **Success** - If Yappes platform able to connect with the Base URL,
+        then it will display Connection Successful highlighted in
         green.
-    -   Failure - If Yappes platform is not able to connect with the
-        Base URL, then it will display "Connection UnSuccessful"
+    -   **Failure** - If Yappes platform is not able to connect with the
+        Base URL, then it will display Connection UnSuccessful
         highlighted in red.
 3.  After this we need to categorize the APIs which we will see in
-    detail ["Next : Tag Details"](tags)
+    detail 
+    
+    [Next : Tag Details](tags.md)
+

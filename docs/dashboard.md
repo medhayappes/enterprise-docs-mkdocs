@@ -2,7 +2,7 @@ Dashboard
 =========
 
 Dashboard is the important section where both API Providers and
-Consumers can manage their
+Consumers can manage all their artefacts.
 
 1.  APIs
 2.  Applications
@@ -12,33 +12,36 @@ Consumers can manage their
 
 ![](images/dashboard/dashboard_view_01.png)
 
-1.  My APIs - Using this tab API Provider can manage all of their APIs.
+1.  **My APIs** - Using this tab API Provider can manage all of their APIs.
 
     ![](images/dashboard/myapis_view_01.png)
 
-2.  Application - This tab allows the provider to manage all Application
+2.  **Application** - This tab allows the provider to manage all Application
     created by the user. We will see application in detail in the
-    section ["Application"](add_application)
+    section [**Application**](add_application.md)
 
     ![](images/dashboard/applications_view_01.png)
 
-3.  Deals section allows to manage all deals for both providers and
-    consumers which will be discussed in detail in the section. ["Manage
-    deals"](managedeals)
+3.  **Deals** section allows to manage all deals for both providers and
+    consumers which will be discussed in detail in the section. [**Manage
+    deals**](managedeals.md)
 
     ![](images/dashboard/deals_view_01.png)
 
-4.  Subscription tab allows the consumers to manage all their
+4.  **Subscription** tab allows the consumers to manage all their
     subscriptions which will be discussed in detail in the section.
-    ["Manage Subscriptions"](manageSubscriptions)
+    [**Manage Subscriptions**](manage_subscription_details.md)<!--Please check this link-->
 
     ![](images/dashboard/subscriptions_view_01.png)
 
-5.  Review and ratings allows providers to view reviews and ratings of
+5.  **Review and ratings** allows providers to view reviews and ratings of
     their APIs which will be discussed in detail in the section.
-    ["Reviews and Ratings"](reviewRatings)
+    [**Reviews and Ratings**](reviewRatingsProvider.md)
 
     ![](images/dashboard/reviewratings_view_01.png)
 
-6.  In the next section, we will see how to manage applications ["Next :
-    Applications"](add_application)
+6.  In the next section, we will see how to manage applications 
+
+[**Next :Applications**](add_application.md)
+
+<!--Please check Links-->

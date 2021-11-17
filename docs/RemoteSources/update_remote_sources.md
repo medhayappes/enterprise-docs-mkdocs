@@ -11,4 +11,6 @@ Update Remote Sources
 5.  This will update the Remote Source and the details of the same can
     be viewed in the main view of Remote Source.
 
-Next: we will see how to configure ["Error Settings"](error_settings)
+Next: we will see how to configure [**Error Settings**](../ErrorSettings/error_settings.md)
+
+<!--ScreenPrint Missing-->

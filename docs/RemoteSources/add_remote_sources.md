@@ -9,5 +9,9 @@ Add Remote Sources
 5.  This will add a Remote Source and the details of the same can be
     viewed in the main view of Remote Source
 
-Next we will see how to Update Remote Sources ["Next : Update Remote
-Sources"](update_remote_sources)
+Next we will see how to Update Remote Sources 
+
+[**Next : Update Remote
+Sources**](update_remote_sources.md)
+
+<!--ScreenPrint Missing-->

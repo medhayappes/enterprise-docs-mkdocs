@@ -8,5 +8,7 @@ View Single Version
     tab.
     ![](../images/dashboard/versions/version_view_6.png)
 
-Next we will see in detail about Deprecate/Reactive Version["Next :
-Deprecate/Reactive Version"](deprecate_reactivate_versions.md)
+Next we will see in detail about Deprecate/Reactive Version
+
+[**Next :
+Deprecate/Reactive Version**](deprecate_reactivate_versions.md)

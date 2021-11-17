@@ -6,13 +6,19 @@ deprecate single or multiple versions. Also the deprecated API can be
 reactivated.In this sections we will see how the Version of an API can
 be managed.
 
-Manage Versioning
+**Manage Versioning**
 
-1.  Create New Version
-2.  View Single Version
-3.  Deprecate/Reactive Version
-4.  Deprecate Multiple Version
-5.  Decommissioning
+1.  [Create New Version](create_versions.md)
 
-Next we will see in detail about Create New Version ["Next : Create New
-Version"](create_versions.md)
+2.  [View Single Version](view_versions.md)
+
+3.  [Deprecate/Reactive Version](deprecate_reactivate_versions.md)
+
+4.  [Deprecate Multiple Version](deprecate_multiple_versions.md)
+
+5.  [Decommissioning](decommissioning.md)
+
+Next we will see in detail about Creating New Version.
+
+[**Next : Create New
+Version**](create_versions.md)

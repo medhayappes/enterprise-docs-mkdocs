@@ -25,5 +25,7 @@ Deprecate Multiple Version
     fully decommissioned.
     ![](../images/dashboard/versions/version_view_19.png)
 
-Next we will see in detail about viewing Decommissioning the API ["Next
-: Decommissioning"](decommissioning.md)
+Next we will see in detail about viewing Decommissioning the API
+
+[**Next
+: Decommissioning**](decommissioning.md)

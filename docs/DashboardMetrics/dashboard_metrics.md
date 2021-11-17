@@ -8,9 +8,11 @@ allows users/organization to have an indepth analysis on their APIs.
 
 Dashboard for Metrics
 
-1.  [Marketplace](marketplace_dashboard)
-2.  [Organization](organization_dashboard)
-3.  [Analytics](analytics_dashboard)
+1.  [Marketplace](marketplace_dashboard.md)
+2.  [Organization](organization_dashboard.md)
+3.  [Analytics](analytics_dashboard.md)
 
-Next we will see in detail about Marketplace Dashboard ["Next :
-Marketplace"](marketplace_dashboard.md)
+Next we will see in detail about Marketplace Dashboard 
+
+[**Next :
+Marketplace**](marketplace_dashboard.md)

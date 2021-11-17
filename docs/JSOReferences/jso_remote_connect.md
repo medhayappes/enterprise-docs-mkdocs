@@ -17,5 +17,7 @@ Currently Yappes Connectors supports three datasources,
 7.  Graphql
 8.  PostgresSQL
 
-Next we will see in detail about the MySQL Remote Connectors ["Next :
-MySQL Remote Connectors"](jso_mysql_connect.md)
+Next we will see in detail about the MySQL Remote Connectors 
+
+[**Next  :
+MySQL Remote Connectors**](jso_mysql_connect.md)

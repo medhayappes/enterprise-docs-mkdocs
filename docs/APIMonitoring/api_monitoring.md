@@ -13,5 +13,7 @@ API Monitoring
 3.  [API Monitoring Policies](api_monitoring_policies.md)
 4.  [Performance Metrics](performance_metrics.md)
 
-Next we will see in detail about Add/update endpoint Tracker ["Next :
-Add/update endpoint Tracker"](add_endpoint_tracker.md)
+Next we will see in detail about Add/update endpoint Tracker 
+
+[**Next :
+Add/update endpoint Tracker**](add_endpoint_tracker.md)

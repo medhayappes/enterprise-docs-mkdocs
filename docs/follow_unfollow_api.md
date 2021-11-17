@@ -1,13 +1,15 @@
 How to Follow / UnFollow an API?
 ================================
 
-Yappes allows the logged in users to keep track of the APIs. It is
-acheived by following the API and if any changes or updates done to the
-API then the following users will be notified for the same. Users can
-un-follow the API as well if they wish not to track it.
+Yappes allows the logged in users to keep track of the APIs. 
 
-Under this section we will see in detail of how to follow / un-follow an
-API.
+It is acheived by *Follow* option for the API and if any changes or updates done to the
+API then the following users will be notified for the same. 
+
+Users can un-follow the API as well if they wish not to track it.
+
+Under this section we will see in detail of **How to follow / un-follow an
+API?**
 
 1.  Users can Follow the API by clicking the Empty Heart button.Total
     number of followers of this API is also displayed here.
@@ -25,4 +27,6 @@ API.
     ![](images/social/follow_unfollow_following_02.png)
 
 4.  After this we will be looking in to Voting and Cancel Voting of an
-    API ["Next : How to Vote / Cancel Vote?"](vote_cancelvote_api.md)
+    API.
+    
+    [**Next : How to Vote / Cancel Vote?**](vote_cancelvote_api.md)

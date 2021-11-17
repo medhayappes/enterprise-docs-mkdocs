@@ -21,5 +21,8 @@ API.
 
     ![](../images/dashboard/analytics/provider_view_08.png)
 
--   Next , We will see API usage - Consumers ["Next : API Analytics -
-    Consumers"](APIAnalytics_consumers)
+-   Next , We will see API usage - Consumers 
+
+
+[**Next : API Analytics -
+    Consumers**](APIAnalytics_consumers.md)

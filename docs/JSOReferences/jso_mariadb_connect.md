@@ -1,12 +1,14 @@
 MariaDB Remote Connector
 ========================
 
-Yappes provides support for accessing the remote MariaDB database.It's
-been done through Yappes Object "ypMariadbConnector". Before
-instantiation,the MariaDB datasource needs to be configured as "Remote
-Sources" as explained in [Remote Sources](remote_sources)
+Yappes provides support for accessing the remote **MariaDB database**.
 
-ypMariadbConnector - The instance of this object provides methods and
+It's
+been done through Yappes Object **ypMariadbConnector**. Before
+instantiation,the MariaDB datasource needs to be configured as **Remote
+Sources** as explained in [Remote Sources](jso_remote_connect.md)
+
+**ypMariadbConnector** - The instance of this object provides methods and
 properties to handle the remote data sources. Below are the methods
 exposed by the instance of ypMariadbConnector object.
 
@@ -16,7 +18,7 @@ exposed by the instance of ypMariadbConnector object.
 |----------------|-------|--------------------------------------------------------------------|
 | remoteResponse | Array | Holds the results obtained from the execution of MariaDB statments |
 
-SELECT - Needs to be instantiated with the instance name same as the
+**SELECT** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its MariaDB remote source configurations.The
 query results will be avaialble in the property remoteResponse
 (logicCodeName.remoteResponse).SELECT supports query or select DML
@@ -76,7 +78,7 @@ SELECT Operation Object Usage : GET /test
                        
             
 
-EXECUTE - Needs to be instantiated with the instance name same as the
+**EXECUTE** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its MariaDB remote source configurations.The
 query results will be avaialble in the property remoteResponse -
 logicCodeName.remoteResponse. EXECUTE support insert and update DML
@@ -146,5 +148,7 @@ Roadster","carId":'12345678'}
 For more examples click
 [here](https://github.com/yappes-technologies/logic-examples).
 
-Next we will see in detail about the Graphql Remote Connectors ["Next :
-Graphql Remote Connectors"](jso_graphql_connect.md)
+Next we will see in detail about the Graphql Remote Connectors 
+
+[**Next  :
+Graphql Remote Connectors**](jso_graphql_connect.md)

@@ -3,16 +3,14 @@ Environment Details
 
 Environment helps the Provider to set which API Url to use during
 publishing. After publishing whenever the the request is triggered from
-the consumer, Yappes platform will connect with the "Environment used
-During Publishing" value
+the consumer, Yappes platform will connect with the **Environment used
+During Publishing** value
 
 Currently Yappes provides three types of Environment.
 
-Testing
-
-Production
-
-Development
+* Testing
+* Production
+* Development
 
 By Default during the creation of the API, the Base URL value will be
 taken for all the environments and the default environment will be
@@ -25,7 +23,7 @@ testing.
     displayed here.The provider can edit the base url when needed.
 
 User can also configure environment specific variables to be used in
-thier business logic [(Refere Section 20.3)](environment_var)
+their business logic [(Refere Section 20.3)](environment_var.md) <!-- This page is missing. See if we want to add this information on existing API env page too--> 
 
 ![](images/new_api/environment_configclick_03.png)
 
@@ -35,4 +33,6 @@ thier business logic [(Refere Section 20.3)](environment_var)
     update variables according to the environment which is being used
 
 After this we need to categorize the APIs which we will see in detail
-["Next : Tag Details"](tags_new)
+
+
+[**Next : Tag Details**](tags_new.md)

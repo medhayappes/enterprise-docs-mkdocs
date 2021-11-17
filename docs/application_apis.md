@@ -2,12 +2,12 @@ Application APIs
 ================
 
 Under this section, users can view all the APIs associated with the
-application
+application.
 
 ![](images/dashboard/applications/apis_update_01.png)
 
 APIs will be associated automatically with the application based on the
-"X-Yappes-Key" value selection under the Documentation view section
+**X-Yappes-Key** value selection under the Documentation view section
 [View API](apiviewdoc)
 
 1.  View API
@@ -18,5 +18,6 @@ APIs will be associated automatically with the application based on the
 
     ![](images/dashboard/applications/apis_update_03.png)
 
-3.  In the next section, we will see how to manage deals ["Next : Deal
-    Room"](managedeals)
+3.  In the next section, we will see **How to manage deals?**
+
+[**Next : Deal Room**](managedeals.md)

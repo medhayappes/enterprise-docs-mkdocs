@@ -18,5 +18,6 @@ This section allows the consumer to view and manage all deals.
 
     ![](images/dashboard/deals/consumer_update_04.png)
 
-4.  In the next section, we will see how to manage Subscriptions ["Next
-    : API Subscriptions"](manageSubscriptions)
+4.  In the next section, we will see how to manage Subscriptions. 
+
+[**Next : API Subscriptions**](subscriptions.md)

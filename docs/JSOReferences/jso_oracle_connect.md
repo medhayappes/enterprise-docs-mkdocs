@@ -1,12 +1,14 @@
 Oracle Remote Connector
 =======================
 
-Yappes provides support for accessing the remote Oracle database.It's
-been done through Yappes Object "ypOracleConnector". Before
-instantiation,the Oracle datasource needs to be configured as "Remote
-Sources" as explained in [Remote Sources](remote_sources)
+Yappes provides support for accessing the **remote Oracle database**.
 
-ypOracleConnector - The instance of this object provides methods and
+It's
+been done through Yappes Object **ypOracleConnector**. Before
+instantiation,the Oracle datasource needs to be configured as **Remote
+Sources** as explained in [Remote Sources](jso_remote_connect.md)
+
+**ypOracleConnector** - The instance of this object provides methods and
 properties to handle the remote data sources. Below are the methods
 exposed by the instance of ypOracleConnector object.
 
@@ -16,7 +18,7 @@ exposed by the instance of ypOracleConnector object.
 |----------------|-------|-------------------------------------------------------------------|
 | remoteResponse | Array | Holds the results obtained from the execution of Oracle statments |
 
-SELECT - Needs to be instantiated with the instance name same as the
+**SELECT** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its Oracle remote source configurations.The
 query results will be avaialble in the property remoteResponse
 (logicCodeName.remoteResponse).SELECT supports query or select DML
@@ -73,7 +75,7 @@ SELECT Operation Object Usage : GET /comic/dc/characterslist
               
             
 
-EXECUTE - Needs to be instantiated with the instance name same as the
+**EXECUTE** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its Oracle remote source configurations.The
 query results will be avaialble in the property remoteResponse -
 logicCodeName.remoteResponse. EXECUTE support insert and update DML
@@ -136,4 +138,6 @@ Data:{":1":88,":testkey":'I am Batman'}
             
 
 Next we will see in detail about How to use environment variables in
-business logic? [Environment Variables](environment_var_in_business_logic.md)
+business logic? 
+
+[**Next : Environment Variables**](environment_var_in_business_logic.md)

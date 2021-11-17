@@ -1,13 +1,15 @@
 Webservice Connector
 ====================
 
-Yappes provides support for accessing the HTTP/S based Web Services and
-it is configured in the platform through Web Service Connector.It's been
-done through Yappes Object "ypWebserviceConnector". Before
-instantiation,the Web Service connector needs to be configured as
-"Remote Sources" as explained in [Remote Sources](remote_sources)
+Yappes provides support for accessing the **HTTP/S based Web Services** and
+it is configured in the platform through Web Service Connector.
 
-ypWebserviceConnector - The instance of this object provides methods and
+It's been
+done through Yappes Object **ypWebserviceConnector**. Before
+instantiation,the Web Service connector needs to be configured as
+**Remote Sources** as explained in [Remote Sources](jso_remote_connect.md)
+
+**ypWebserviceConnector** - The instance of this object provides methods and
 properties to handle the Web Services. Below are the methods exposed by
 the instance of ypWebserviceConnector object.
 
@@ -17,7 +19,7 @@ the instance of ypWebserviceConnector object.
 |----------------|--------|--------------------------------------------------------------------|
 | remoteResponse | Object | Holds the results obtained from the execution of HTTP/S operations |
 
-wsget - Needs to be instantiated with the instance name same as the
+**wsget** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its webservice remote source
 configurations.The weget results will be available in the property
 remoteResponse (logicCodeName.remoteResponse).
@@ -87,7 +89,7 @@ wsget Operation
                                
             
 
-wspost - Needs to be instantiated with the instance name same as the
+**wspost** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its webservice remote source
 configurations.The wspost results will be available in the property
 remoteResponse - logicCodeName.remoteResponse.
@@ -167,7 +169,7 @@ wspost Operation
                                 
             
 
-wsput - For Update, the wsput method comes in handly, required parameter
+**wsput** - For Update, the wsput method comes in handly, required parameter
 like URL defined in option and data could be defined in another variable
 and the wsput method requires two parameters
 
@@ -242,7 +244,7 @@ wsput Operation
                                
             
 
-wsdelete - For Delete wsdelete method is used and it requires 2
+**wsdelete** - For Delete wsdelete method is used and it requires 2
 positional arguments.
 
 Select Language
@@ -313,7 +315,7 @@ wsdelete Operation
                                
             
 
-wssoap - Needs to be instantiated with the instance name same as the
+**wssoap** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its webservice remote source
 configurations.The wssoap results will be available in the property
 remoteResponse (logicCodeName.remoteResponse). "wssoap" will provide the
@@ -363,5 +365,7 @@ wssoap Operation
 For more examples click
 [here](https://github.com/yappes-technologies/logic-examples).
 
-Next we will see in detail about the MariaDB Remote Connectors ["Next :
-MariaDB Remote Connectors"](jso_mariadb_connect.md)
+Next we will see in detail about the MariaDB Remote Connectors 
+
+[**Next  :
+MariaDB Remote Connectors**](jso_mariadb_connect.md)

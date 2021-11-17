@@ -1,12 +1,13 @@
 Postgres SQL Remote Connector
 =============================
 
-Yappes provides support for accessing the remote Postgres database.It's
-been done through Yappes Object "ypPostgresConnector". Before
-instantiation,the Postgres datasource needs to be configured as "Remote
-Sources" as explained in [Remote Sources](remote_sources)
+Yappes provides support for accessing the **remote Postgres database**.
+It's
+been done through Yappes Object **ypPostgresConnector**. Before
+instantiation,the Postgres datasource needs to be configured as **Remote
+Sources** as explained in [Remote Sources](jso_remote_connect.md)
 
-ypPostgresConnector The instance of this object provides methods and
+**ypPostgresConnector** - The instance of this object provides methods and
 properties to handle the remote data sources. Below are the methods
 exposed by the instance of ypPostgresConnector object. **Note:**
 
@@ -16,7 +17,7 @@ exposed by the instance of ypPostgresConnector object. **Note:**
 |----------------|-------|---------------------------------------------------------------------|
 | remoteResponse | Array | Holds the results obtained from the execution of Postgres statments |
 
-SELECT Needs to be instantiated with the instance name same as the
+**SELECT** Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its Postgres SQL remote source
 configurations. The query results will be available in the property
 remoteResponse (logicCodeName.remoteResponse).
@@ -81,7 +82,7 @@ SELECT Operation This is the basic Select Operation
               
             
 
-INSERT Operation Requires the column name as well as the parameterized
+**INSERT** Operation Requires the column name as well as the parameterized
 queries.
 
 Select Language
@@ -146,7 +147,7 @@ INSERT Operation Object Usage : POST "/new/data/insert" Data
                        
             
 
-UPDATE Requires the parameters as well as the condition for selecting
+**UPDATE** Requires the parameters as well as the condition for selecting
 the specific row.
 
 Select Language
@@ -211,5 +212,7 @@ UPDATE Operation Object Usage : POST "/new/data/update" Data
                                  
             
 
-Next we will see in detail about the MSSQL Connectors["Next : MSSQL
-Connectors"](jso_mssql_connect.md)
+Next we will see in detail about the MSSQL Connectors
+
+[**Next  : MSSQL
+Connectors**](jso_mssql_connect.md)

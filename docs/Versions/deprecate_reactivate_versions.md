@@ -26,5 +26,7 @@ Deprecate/Reactive Version
     type as patch, minor or major
     ![](../images/dashboard/versions/version_view_13.png)
 
-Next we will see in detail about Deprecate Multiple Version["Next :
-Deprecate Multiple Version"](deprecate_multiple_versions.md)
+Next we will see in detail about Deprecate Multiple Version
+
+[**Next
+Deprecate Multiple Version**](deprecate_multiple_versions.md)

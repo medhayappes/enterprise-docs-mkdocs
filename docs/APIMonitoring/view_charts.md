@@ -17,5 +17,7 @@ To start with this, we need to navigate to **trackers** tab.
     data points in the chart.
     ![](../images/dashboard/monitoring/add_api_tracker_007.png)     
 
-Next we will see in detail about API Monitoring Policies ["Next : API
-Monitoring Policies "](api_monitoring_policies.md)
+Next we will see in detail about API Monitoring Policies 
+
+[**Next : API
+Monitoring Policies **](api_monitoring_policies.md)

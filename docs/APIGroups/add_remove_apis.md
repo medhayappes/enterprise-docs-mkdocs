@@ -1,4 +1,4 @@
-Add Remove API's
+Add Remove APIs
 ================
 
 Under this section, we will see in detail, how to Add and Remove API's.
@@ -22,5 +22,7 @@ To start with this, we need to navigate to **API's** tab.
 -   User will see updated selected API's in the group.
     ![](../images/dashboard/api-groups/add_apis_001.png)
 
-Next we will see in detail about Add/Remove Gateway Policies ["Next :
-Add/Remove Gateway Policies"](add_remove_gateway_policy.md)
+Next we will see in detail about Add/Remove Gateway Policies 
+
+[**Next :
+Add/Remove Gateway Policies**](add_remove_gateway_policy.md)

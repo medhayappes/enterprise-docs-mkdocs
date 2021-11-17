@@ -1,20 +1,35 @@
 Adding an Endpoint
 ==================
 
-You can individually add the end points of your API by clicking "Add
-Endpoint" .  
-You can also add multiple Endpoint, if you have the Swagger Spec file
-for your API which we will discuss in detail on ["Add Multiple
-Endpoints"](addmultiplendpoint)
+You can individually add the end points of your API by clicking **Add
+Endpoint**.  
+You can also add multiple Endpoint, if you have the *Swagger Spec file*
+for your API which we will discuss in detail on [*Add Multiple
+Endpoints*](add_multiple_endpoint.md)
+
+** Adding End Point includes adding following information** 
+
+1. Basic Details
+
+2. Header Data
+
+3. Query Parameters
+
+4. Form data
+
+<!--For Above point please create links to sections below-->
 
 ![](images/existing_api/existing_api_resources_02.png)
 
 Once you have clicked the "ADD ENDPOINT" button following sets of
 details needs to be provided.
 
-End point Name - Name for your End point.
+**Adding Basic Details**
 
-End point Path - path of the End point.
+![](images/existing_api/existing_api_resources_delete_04.png)
+
+* End point Name - Name for your End point.
+* End point Path- path of the End point.
 
 Need to provide the **"HTTP Request Method"** available from the
 options.The available options are:
@@ -35,12 +50,11 @@ options.The available options are:
 Description - you can write the detailed description about the endpoint
 like for what is this end point used for and other necessary
 information.
-
-Once all the details are entered, click on the "ADD" button.As soon as
+Once all the details are entered, click on the **ADD** button.As soon as
 the endpoint is created, the created endpoints are listed below.Click
 the arrow to view the endpoint details.
 
-![](images/existing_api/existing_api_resources_add_03.png)
+![](images/existing_api/existing_api_resources_add_formdata_07.png)
 
 Once you click the arrow shown in the above picture,the detailed view of
 the endpoint is displayed.
@@ -54,7 +68,7 @@ this section itself.
 Delete - You can delete the endpoint by clicking "delete" icon *delete*
 button.
 
-Add Headers Parameters for the API
+**Add Headers Parameters for the API**
 
 ![](images/existing_api/existing_api_resources_add_headers_05.png)
 
@@ -78,7 +92,7 @@ Add Headers Parameters for the API
 3.  Then it will prompt the message that successfully added the header
     or not.
 
-Add Query Parameters for your API
+**Add Query Parameters for your API**
 
 ![](images/existing_api/existing_api_resources_add_queryparam_06.png)
 
@@ -106,7 +120,7 @@ Add Query Parameters for your API
 3.  Then it will prompt the message that successfully added the Query
     parameter or not.
 
-Add Form data for your API
+**Add Form data for your API**
 
 ![](images/existing_api/existing_api_resources_add_formdata_07.png)
 
@@ -138,5 +152,7 @@ when any change needs to be performed.
 
 Now we are familiar with how to add individual endpoints.Yappes platform
 providing you the option to add multiple end points also.We will see
-that in ["Next : Adding Multiple Endpoints using Swagger
-file"](addmultiplendpoint)
+that in [Next : Adding Multiple Endpoints using Swagger
+file](add_multiple_endpoint.md)
+
+![](images/existing_api/existing_api_resources_add_03.png)

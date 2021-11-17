@@ -6,14 +6,16 @@ Let us start our configuration with User level - Dev
 **User Level - Dev**  
 
 1.  Click on the radio button Dev under user level configuration. By
-    default, error settings is configured to **Dev**
-2.  Now, select from the drop down, the log levels (debug, error, info)
-3.  click on **Save** button to save the error settings.
+    default, error settings is configured to **Dev**.
+2.  Now, select from the drop down, the log levels (debug, error, info).
+3.  Click on **Save** button to save the error settings.
 4.  If the custom logic contains syntactical or any error in business
     logic, the error stack is sent from the server so that the user is
-    well aware and understand the cause of the error  
+    well aware and understand the cause of the error. 
     For example: If you test your erroneous logic code, you can expect
     the error format similar to the below picture.
+    
+<!--Screenshots Missing-->
 
 **User Level - Customer**  
 
@@ -31,5 +33,7 @@ Let us start our configuration with User level - Dev
     For example: If you test your erroneous API logic, you can expect
     the error format similar to the below picture.
 
-Next we will check how to add pricing [" Add Pricing
-details"](pricing_new)
+Next we will check how to add pricing [**Add Pricing
+details**](../pricing_new.md)
+
+<!--Screenshots Missing-->

@@ -20,5 +20,7 @@ To start with this, we need to navigate to **Gateway Policies** tab.
 -   User will see updated gateway policy list.
     ![](../images/dashboard/api-groups/remove_gateway_policies_002.png)
 
-Next we will see in detail about Add/Remove Monitor Policies ["Next :
-Add/Remove Monitor Policies"](add_remove_monitor_policy.md)
+Next we will see in detail about Add/Remove Monitor Policies 
+
+[**Next :
+Add/Remove Monitor Policies**](add_remove_monitor_policy.md)

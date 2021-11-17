@@ -61,5 +61,7 @@ To start with this, we need to navigate to **Organization** tab.
     ![](../images/dashboard/dashboard-metrics/organization_dashboard_011.png) 
     ![](../images/dashboard/dashboard-metrics/organization_dashboard_012.png) 
 
-Next we will see in detail about Analytics Dashboard ["Next : Analytics
-Dashboard"](analytics_dashboard.md)
+Next we will see in detail about Analytics Dashboard 
+
+[**Next : Analytics
+Dashboard**](analytics_dashboard.md)

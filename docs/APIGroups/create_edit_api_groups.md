@@ -23,5 +23,7 @@ To start with this, we need to navigate to **API Groups** tab.
 -   User will see updated API group name on API Group card.
     ![](../images/dashboard/api-groups/edit_api_group_002.png)
 
-Next we will see in detail about Add/Remove API's ["Next : Add/Remove
-API's"](add_remove_apis.md)
+Next we will see in detail about Add/Remove API's 
+
+[**Next : Add/Remove
+API's**](add_remove_apis.md)

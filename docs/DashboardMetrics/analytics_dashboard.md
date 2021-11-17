@@ -22,5 +22,7 @@ To start with this, we need to navigate to **Analytics** tab.
     ![](../images/dashboard/monitoring/add_api_tracker_004.png) 
     ![](../images/dashboard/monitoring/add_api_tracker_005.png)     
 
-Next we will see in detail about Manage API Groups ["Next : Manage API
-Groups"](../APIGroups/api_groups.md)
+Next we will see in detail about Manage API Groups 
+
+[**Next : Manage API
+Groups**](../APIGroups/api_groups.md)

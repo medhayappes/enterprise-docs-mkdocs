@@ -14,5 +14,7 @@ use of,
 2.  Lodash
 3.  Yappes Objects
 
-Next we will see in detail about the Yappes Objects["Next : Request and
-Response Objects"](jso_req_res.md)
+Next we will see in detail about the Yappes Objects
+
+[**Next  : Request and
+Response Objects**](jso_req_res.md)

@@ -16,5 +16,7 @@ number users of this API.
 
     ![](../images/dashboard/analytics/provider_view_03.png)
 
--   Next , We will see API usage - Endpoint Level ["Next : Endpoint
-    Level"](analytics_endpoint_level)
+-   Next , We will see API usage - Endpoint Level
+
+[**Next : Endpoint
+    Level**](analytics_endpoint_level.md)

@@ -23,5 +23,7 @@ section
     ![](images/dashboard/subscriptions/consumersubs_rate_03.png)
 
 4.  In the next section, we will see how view all the review and ratings
-    for my API ["Next : View Review and Ratings For My
-    API"](reviewRatings)
+    for my API 
+    
+    [**Next : View Review and Ratings For My
+    API**](reviewRatingsProvider.md)

@@ -7,10 +7,12 @@ applied to multiple APIs.
 
 Manage API Groups
 
-1.  [Create and Edit API Groups](create_edit_api_groups)
-2.  [Add/Remove APIs](add_remove_apis)
-3.  [Add/Remove Gateway Policies](add_remove_gateway_policy)
-4.  [Add/Remove Monitor Policies](add_remove_monitor_policy)
+1.  [Create and Edit API Groups](create_edit_api_groups.md)
+2.  [Add/Remove APIs](add_remove_apis.md)
+3.  [Add/Remove Gateway Policies](add_remove_gateway_policy.md)
+4.  [Add/Remove Monitor Policies](add_remove_monitor_policy.md)
 
-Next we will see in detail about Create and Edit API Groups ["Next :
-Create and Edit API Groups"](create_edit_api_groups.md)
+Next we will see in detail about Create and Edit API Groups 
+
+[**Next :
+Create and Edit API Groups**](create_edit_api_groups.md)

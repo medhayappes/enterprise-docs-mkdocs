@@ -3,8 +3,8 @@ Adding Logic
 
 User can define Business Logic for their Endpoints.
 
-The Logic can be written in Javascript supported by the Standard and
-Custom objects for implementation.
+The Logic can be written in **Javascript** supported by the **Standard and
+Custom** objects for implementation.
 
 Users will have access to three set of Javascript Objects:
 
@@ -13,7 +13,7 @@ Users will have access to three set of Javascript Objects:
 -   Yappes Custom Objects
 
 Documentation for the above objects can be referred in the section
-"Javascript Object Reference".
+**Javascript Object Reference**.
 
 To handle logic, user must first open the logic view of the endpoint.
 
@@ -28,7 +28,7 @@ To handle logic, user must first open the logic view of the endpoint.
 **Add Logic**
 
 In this part, user are able to add custom logic, along specifying
-[Remote Sources](remote_sources) (if any) accordingly.
+[Remote Sources](../remote_sources.md) (if any) accordingly.
 
 1.  On button click, logic editor will be rendered for the user with
     basic template. Add your business process as Custom logic in the
@@ -38,5 +38,5 @@ In this part, user are able to add custom logic, along specifying
 
 ------------------------------------------------------------------------
 
-In the next section, we will see about Documentation ["Next :
-Documentation"](endpoint_documentation)
+In the next section, we will see about Documentation [**Next :
+Documentation**](endpoint_documentation.md)

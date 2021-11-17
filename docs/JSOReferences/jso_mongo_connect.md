@@ -222,5 +222,7 @@ Data:{"id":"1234","code":"yapp345"}
                                   
             
 
-Next we will see in detail about the Store Connectors["Next : Store
-Connectors"](jso_store_connect.md)
+Next we will see in detail about the Store Connectors
+
+[**Next : Store
+Connectors**](jso_store_connect.md)

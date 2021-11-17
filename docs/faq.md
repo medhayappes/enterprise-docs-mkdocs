@@ -1,11 +1,13 @@
 ### 
+FAQs
+=====
 
 ### Frequently Asked Questions
 
 1. Who can use this platform?
 -----------------------------
 
--   Organizations who is having the API or data like content
+-   Organizations who are having the API or data like content
     providers/aggregators, etc
 -   Developers or Providers who is having data/services thats needs to
     be integrated with other applications and wanted to create API from
@@ -14,7 +16,7 @@
     consume APIs like Technology businesses, developers, and enterprise
     etc
 
-2. What is the difference between "Existing APIs" and "New APIs"?
+2. What is the difference between **Existing APIs** and **New APIs**?
 -----------------------------------------------------------------
 
 -   Existing APIs - Provider already has an API and onboarding them to
@@ -25,17 +27,19 @@
 3. I have published my API but it is not visible in the search?
 ---------------------------------------------------------------
 
-Make sure the availability is set to "Public" only then it is available
-to all of the platform users. For details check the [Provide API Details
-during Creation](apidetails)
+Make sure the availability is set to **Public** only then it is available
+to all of the platform users. 
+
+For details check the [Provide API Details
+during Creation](api_details.md)
 
 4. Do I need to go through the Deal Process for the Free APIs as well?
 ----------------------------------------------------------------------
 
 No, Consumer can directly subscribe to the APIs whose plan types are
-"Free" and can unsubscribe anytime they needed as mentioned in our
+**Free** and can unsubscribe anytime they needed as mentioned in our
 functionality docs [Start/Stop API
-Subscriptions](startStopSubscription).
+Subscriptions](start_stop_subscriptions.md).
 
 5. What is the billing cycle in the Marketplace module?
 -------------------------------------------------------

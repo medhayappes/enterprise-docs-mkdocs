@@ -25,4 +25,6 @@ API from usage.
     availble for the user.
     ![](../images/dashboard/decommissioning/decommissioning_view_6.png)
 
-Next we will see the API Monitoring. [API Monitoring](../APIMonitoring/api_monitoring.md)
+Next we will see the API Monitoring. 
+
+[API Monitoring](../APIMonitoring/api_monitoring.md)

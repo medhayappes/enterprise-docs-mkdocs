@@ -43,5 +43,7 @@ To start with this, we need to navigate to **Dashboards** tab.
     ![](../images/dashboard/dashboard-metrics/marketplace_dashboard_008.png) 
     ![](../images/dashboard/dashboard-metrics/marketplace_dashboard_009.png)     
 
-Next we will see in detail about Organization Dashboard ["Next :
-Organization Dashboard"](organization_dashboard.md)
+Next we will see in detail about Organization Dashboard 
+
+[**Next :
+Organization Dashboard**](organization_dashboard.md)

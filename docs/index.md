@@ -1,31 +1,41 @@
 Introduction
 ============
 
-Yappes Enterprise Platform (YEP) is an enterprise-grade platform and
+**Yappes Enterprise Platform (YEP)** is an enterprise-grade platform and
 provides components to enable and manage the digital enterprise of today
-and the future. YEP is the next generation unified platform to manage
-the end-to-end API lifecycle.
+and the future. 
 
-It combines a developer engine - focused on rapidly building, testing
-and deploying APIs; an API marketplace (developer portal) for efficient
-discovery, seamless integration and controlled distribution of APIs; an
-API Gateway to orchestrate micro services, and provide governance and
-mediation of APIs; a management and analytics dashboard to provide an
-enterprise view of all the APIs and critical metrics; and a monitoring
-mechanism to ensure the liveliness and health of the APIs.
+YEP is the next generation unified platform to manage the end-to-end API lifecycle.
 
-YEP provides multi-dimensional security such as authorization,
-authentication, message signature, RBAC, onboarding of
-customers/partners/vendors etc.
+**Platform Salient features:**
 
-YEP is sector and cloud agnostic and can be deployed on any public or
-private cloud or on-premises infrastructure.
+*  A developer engine focused on rapidly building, testing and deploying APIs
 
-This documentation is prepared in such a way that the users will become
-familiar with the functionalities in a easier and faster way.
+*  Provides downloadable and installable libraries for multiple programming languages (Nodejs, PHP and Python).
 
-Documentation contents are based on the How-To or Use Case basis which
-makes it easier for the Users to relate it to the platform's features.
+*  Hasslefree and Seamless [**onboarding of existing APIs**](add_api.md).No need to rewrite the code. 
+
+*  An API marketplace (developer portal) for efficient discovery, seamless integration and controlled distribution of APIs.
+
+*  An API Gateway to orchestrate micro services, and provide governance and mediation of APIs.
+
+*  A management and analytics dashboard to provide an enterprise view of all the APIs and critical metrics
+
+*  A monitoring mechanism to ensure the liveliness and health of the APIs.
+
+*  Multi-dimensional security such as authorization, authentication, message signature, RBAC, onboarding of customers/partners/vendors etc.
+
+*  Easy Deployments for APIs. APIs are sector and cloud agnostic and can be deployed on any public or private cloud or on-premises infrastructure.
+
+This documentation will help developers to use and get adapted to the platform in the easiest and fastest possible way.
+
+ For Frequently asked questions visit [**FAQs**](faqs.md)
+
+ To check out Our Services [**Visit Our Website**](https://yappes.com)
+
+ [**Next : Add APIs**](add_api.md)
+
+
 
 <!-- The How-To's are listed based on the Audiences and covers the basic
 steps

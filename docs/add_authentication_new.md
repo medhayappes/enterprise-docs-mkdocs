@@ -42,12 +42,12 @@ OAUTH2
 
 <!-- ![](images/add_api/auth3_update.png) -->
 
-1.  Under "OAuth2 Authentication" you need to enter the following
+1.  Under **OAuth2 Authentication** you need to enter the following
     details.
     -   Callback URL - Yappes callback URL to reroute once the
         Authorization is done.It is not editable.You don't have to
         provide the value as it will be defaulted to
-        "https://beta.yappes.com/oauth/callback".
+        [https://beta.yappes.com/oauth/callback](https://beta.yappes.com/oauth/callback).<!--Please check if need to provide any link-->
     -   Authorization URL - URL to Authorize the user and to get the
         Authorization code.
     -   Access Token URL - URL to get Access Token.
@@ -72,5 +72,8 @@ details.
 
 Now we have successfully added the authentication and endpoints.
 
-Next we can test our endpoints in preview section ["Next : Preview the
-API Documentation"](preview_new)
+Next we can test our endpoints in preview section 
+
+
+[**Next : Preview the
+API Documentation**](previewAPI_new.md)

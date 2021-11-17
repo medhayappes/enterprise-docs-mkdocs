@@ -1,12 +1,14 @@
 MSSQL Remote Connector
 =======================
 
-Yappes provides support for accessing the remote Oracle database.It's
-been done through Yappes Object "ypOracleConnector". Before
-instantiation,the Oracle datasource needs to be configured as "Remote
-Sources" as explained in [Remote Sources](remote_sources)
+Yappes provides support for accessing the **remote Oracle database**.It's
+been done through Yappes Object **ypOracleConnector**. 
 
-ypOracleConnector - The instance of this object provides methods and
+Before
+instantiation,the Oracle datasource needs to be configured as **Remote
+Sources** as explained in [Remote Sources](jso_remote_connect.md)
+
+**ypOracleConnector** - The instance of this object provides methods and
 properties to handle the remote data sources. Below are the methods
 exposed by the instance of ypOracleConnector object.
 
@@ -16,7 +18,7 @@ exposed by the instance of ypOracleConnector object.
 |----------------|-------|-------------------------------------------------------------------|
 | remoteResponse | Array | Holds the results obtained from the execution of Oracle statments |
 
-SELECT - Needs to be instantiated with the instance name same as the
+**SELECT** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its Oracle remote source configurations.The
 query results will be avaialble in the property remoteResponse
 (logicCodeName.remoteResponse).SELECT supports query or select DML
@@ -24,7 +26,7 @@ operation.
 
 Select Language
 
-SELECT Operation Object Usage : GET /travel/airlines/list
+**SELECT** Operation Object Usage : GET /travel/airlines/list
 
               
                 var reqPath = yprequest.body;
@@ -73,7 +75,7 @@ SELECT Operation Object Usage : GET /travel/airlines/list
               
             
 
-EXECUTE - Needs to be instantiated with the instance name same as the
+**EXECUTE** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its Oracle remote source configurations.The
 query results will be avaialble in the property remoteResponse -
 logicCodeName.remoteResponse. EXECUTE support insert and update DML
@@ -135,5 +137,7 @@ Data:{"id":1,"name":"Flighttest"}
               
             
 
-Next we will see in detail about the Oracle Connectors["Next : Oracle
-Connectors"](jso_oracle_connect.md)
+Next we will see in detail about the Oracle Connectors
+
+[**Next  : Oracle
+Connectors**](jso_oracle_connect.md)

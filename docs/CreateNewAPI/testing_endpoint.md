@@ -18,5 +18,5 @@ To handle Testing, user must first open the Test view of the endpoint.
     eventually generate a response accordingly to the provided
     information.
 
-Next we will check how to add Remote Sources ["Next : Add Remote
-Sources"](remote_sources)
+Next we will check how to add Remote Sources [**Next : Add Remote
+Sources**](../remote_sources.md)

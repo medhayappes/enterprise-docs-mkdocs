@@ -1,12 +1,14 @@
 GraphQL Remote Connector
 ========================
 
-Yappes provides support for accessing the remote Graphql server.It's
-been done through Yappes Object "ypGraphQlConnector". Before
-instantiation,the graphql source needs to be configured as "Remote
-Sources" as explained in [Remote Sources](remote_sources)
+Yappes provides support for accessing the remote **Graphql server**.
 
-ypGraphQlConnector - The instance of this object provides methods and
+It's
+been done through Yappes Object **ypGraphQlConnector**. Before
+instantiation,the graphql source needs to be configured as **Remote
+Sources** as explained in [Remote Sources](jso_remote_connect.md)
+
+**ypGraphQlConnector** - The instance of this object provides methods and
 properties to handle the remote data sources. Below are the methods
 exposed by the instance of ypGraphQlConnector object.
 
@@ -16,7 +18,7 @@ exposed by the instance of ypGraphQlConnector object.
 |----------------|-------|--------------------------------------------------------------------|
 | remoteResponse | Array | Holds the results obtained from the execution of graphql statments |
 
-QUERY - Needs to be instantiated with the instance name same as the
+**QUERY** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its graphql remote source configurations.The
 query results will be avaialble in the property remoteResponse
 (logicCodeName.remoteResponse).query supports query and mutation
@@ -61,5 +63,8 @@ Query Operation Object Usage : GET /graphtest
 For more examples click
 [here](https://github.com/yappes-technologies/logic-examples).
 
-Next we will see in detail about How to use [PostgresSQL Connectors
-?](jso_postgres_connect.md)
+Next we will see in detail about How to use 
+
+[**Next  : PostgresSQL Connectors
+**](jso_postgres_connect.md)
+

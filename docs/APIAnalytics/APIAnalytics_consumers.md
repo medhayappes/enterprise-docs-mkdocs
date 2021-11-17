@@ -21,4 +21,5 @@ Usage can be tracked under Applications in which the APIs are used.
     ![](../images/dashboard/analytics/consumer_view_01.png)
 
 4.  Next , We will go through API Analytics for Consumer in detail
-    ["Next : API Level - Consumers"](analytics_consumer_apilevel)
+
+    [**Next : API Level - Consumers**](analytics_consumer_apilevel.md)

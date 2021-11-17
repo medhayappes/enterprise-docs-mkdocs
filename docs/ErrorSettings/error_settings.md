@@ -1,11 +1,12 @@
 Error Settings
 ==============
 
-Yappes provides the convenience to customize error messages that is
-delivered from the server on custom logic execution. This requires to
-configure the error settings
+Yappes provides the facility to customize error messages that will be
+delivered from the server on custom logic execution error conditions. 
 
-To get started, click on **Error Settings.**
+This can be acheived by configuring the error settings
+
+To get started, click on **Error Settings** in the left navigation panel.
 
 ![](../images/new_api/errorsetingtab_view_18.png)
 
@@ -18,4 +19,4 @@ Error settings requires 2 configurations.
 ![](../images/new_api/errorsettingtab_view_19.png)
 
 Next : We will further see how to configure [error
-settings.](configure_error_settings)
+settings.](configure_error_settings.md)

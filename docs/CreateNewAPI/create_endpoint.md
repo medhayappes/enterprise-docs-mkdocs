@@ -4,7 +4,7 @@ Create Endpoints
 Endpoints can be created for a particular API by following the below
 steps.
 
-1.  To start with, click on **Resource** option. This will render a view
+1.  To start with, click on **Resource** option in the left menu. This will render a view
     to create endpoints.
 2.  Now, click on **Add End Point** button to start with endpoint
     creation.
@@ -22,5 +22,7 @@ steps.
 2.  Change necessary endpoint details and click on **Update** button to
     save changes.
 
-In the next section, we will see How to Add Logic ["Next : Adding Logic
-"](add_logic)
+In the next section, we will see How to Add Logic [**Next : Adding Logic
+**](add_logic.md)
+
+<!--Please put snapshots for the screen-->

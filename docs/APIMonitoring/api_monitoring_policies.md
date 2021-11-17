@@ -9,5 +9,7 @@ To start with this, we need to navigate to **Manage policies** tab.
 		![](../images/dashboard/monitoring/add_api_tracker_001.png) 
 -   Then user can attach the policy to the respective tracker.
 
-Next we will see in detail about Add/Update Policies for monitor ["Next
-: Add Policies"](add_policies.md)
+Next we will see in detail about Add/Update Policies for monitor 
+
+[**Next
+: Add Policies**](add_policies.md)

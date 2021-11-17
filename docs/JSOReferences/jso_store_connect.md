@@ -2,14 +2,16 @@ Store Remote Connector
 ======================
 
 Yappes provides support for accessing the Collections and its Objects
-created in the platform through Store Connector.It's been done through
-Yappes Object "ypStoreConnector". Before instantiation,the Store
-connector needs to be configured as "Remote Sources" as explained in
-[Remote Sources](remote_sources)
+created in the platform through **Store Connector**.
 
-ypStoreConnector - The instance of this object provides methods and
+It's been done through
+Yappes Object **ypStoreConnector**. Before instantiation,the Store
+connector needs to be configured as **Remote Sources** as explained in
+[Remote Sources](jso_remote_connect.md)
+
+**ypStoreConnector** - The instance of this object provides methods and
 properties to handle the Collection/Object data source. Below are the
-methods exposed by the instance of ypStoreConnector object.
+methods exposed by the instance of **ypStoreConnector** object.
 
 [TABLE]
 
@@ -17,7 +19,7 @@ methods exposed by the instance of ypStoreConnector object.
 |----------------|--------|-------------------------------------------------------------------|
 | remoteResponse | Object | Holds the results obtained from the execution of Store operations |
 
-QUERY - Needs to be instantiated with the instance name same as the
+**QUERY** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its Store remote source configurations.The
 query results will be available in the property remoteResponse
 (logicCodeName.remoteResponse).
@@ -43,7 +45,7 @@ QUERY Operation Object Usage : GET /travel/places/list?country=IN
               
             
 
-INSERT - Needs to be instantiated with the instance name same as the
+**INSERT** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its Store remote source configurations.The
 insert results will be available in the property remoteResponse -
 logicCodeName.remoteResponse.
@@ -72,7 +74,7 @@ Data:{"placeName": "Mysuru Palace","type": "heritage","city":
               
             
 
-UPDATE - Needs to be instantiated with the instance name same as the
+**UPDATE** - Needs to be instantiated with the instance name same as the
 "logicCodeName" defined in its Store remote source configurations.The
 update results will be available in the property remoteResponse -
 logicCodeName.remoteResponse.
@@ -101,5 +103,7 @@ Data:{rating":"4.5"}
               
             
 
-Next we will see in detail about the Web Service Connectors["Next : Web
-Service Connectors"](jso_https_connect.md)
+Next we will see in detail about the Web Service Connectors
+
+[**Next  : Web
+Service Connectors**](jso_https_connect.md)

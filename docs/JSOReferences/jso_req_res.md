@@ -1,8 +1,10 @@
 Yappes Objects
 ==============
 
-Yappes Objects are a set of predefined objects which are loaded and
-available for the execution and in the logic editor. These are
+**Yappes Objects** are a set of predefined objects which are loaded and
+available for the execution and in the logic editor. 
+
+These are
 instantiated for every API request and are unique to that transaction.
 
 There are three sets of Yappes Objects,
@@ -11,7 +13,7 @@ There are three sets of Yappes Objects,
 2.  Remote Connectors
 3.  Environment Variables
 
-Request and Response Objects:  
+**Request and Response Objects:**  
 The API request and response information are handled through the
 predefined objects:
 
@@ -31,7 +33,7 @@ information. Below are the properties exposed by the yprequest object.
 | method   | String | Incoming request method information       |
 | params   | Object | Access the API request parameters details |
 
-yprequest object is instantiated and loaded with the incoming API
+**yprequest** object is instantiated and loaded with the incoming API
 request object details related to an end-point. For every request the
 yprequest is instantiated and unique to an transaction.
 
@@ -46,7 +48,7 @@ yprequest Object Usage : GET /travel/airlines/list
               
             
 
-ypresponse - This object is used to set the response data related to an
+**ypresponse** - This object is used to set the response data related to an
 request. Below are the properties exposed by the ypresponse object.
 
 | Property | Type   | Description                   |
@@ -74,5 +76,7 @@ ypresponse Object Usage : GET /travel/airlines/list
               
             
 
-Next we will see in detail about the Remote Connectors - Yappes
-Objects["Next : Remote Connectors"](jso_remote_connect.md)
+Next we will see in detail about the **Remote Connectors - Yappes
+Objects**
+
+[**Next  : Remote Connectors**](jso_remote_connect.md)

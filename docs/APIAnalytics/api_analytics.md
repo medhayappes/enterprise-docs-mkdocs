@@ -25,5 +25,7 @@ Currently Yappes provides three types of Metric levels
 
     ![](../images/dashboard/analytics/provider_view_02.png)
 
-4.  Next , We will go through each metric level in detail ["Next : API
-    Level"](analytics_api_level)
+4.  Next , We will go through each metric level in detail 
+
+[**Next : API
+    Level**](analytics_api_level.md)

@@ -11,5 +11,6 @@ tutorials or both .
     Each time when the supported functionalities is loaded a video
     tutorial is shown.
 
-2.  The next section provides billing information. ["Next : Billing
-    Information"](billing)
+2.  The next section provides billing information. 
+
+[**Next : Billing Information**](billing.md)
